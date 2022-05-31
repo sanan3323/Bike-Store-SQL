@@ -1,0 +1,831 @@
+orderid;custid;empid;orderdate;requireddate;shippeddate;shipperid;freight;shipname;shipcity;shipregion;shippostalcode;shipcountry;shipaddress
+10248;85;5;04.07.2014;01.08.2014;16.07.2014;3;32,38;Ship to 85-B;Reims;;10345;France;6789 rue de l'Abbaye
+10249;79;6;05.07.2014;16.08.2014;10.07.2014;1;11,61;Ship to 79-C;Münster;;10328;Germany;Luisenstr. 9012
+10250;34;4;08.07.2014;05.08.2014;12.07.2014;2;65,83;Destination SCQXA;Rio de Janeiro;RJ;10195;Brazil;Rua do Paço, 7890
+10251;84;3;08.07.2014;05.08.2014;15.07.2014;1;41,34;Ship to 84-A;Lyon;;10342;France;3456, rue du Commerce
+10252;76;4;09.07.2014;06.08.2014;11.07.2014;2;51,3;Ship to 76-B;Charleroi;;10318;Belgium;Boulevard Tirou, 9012
+10253;34;3;10.07.2014;24.07.2014;16.07.2014;2;58,17;Destination JPAIY;Rio de Janeiro;RJ;10196;Brazil;Rua do Paço, 8901
+10254;14;5;11.07.2014;08.08.2014;23.07.2014;2;22,98;Destination YUJRD;Bern;;10139;Switzerland;Hauptstr. 1234
+10255;68;9;12.07.2014;09.08.2014;15.07.2014;3;148,33;Ship to 68-A;Genève;;10294;Switzerland;Starenweg 6789
+10256;88;3;15.07.2014;12.08.2014;17.07.2014;2;13,97;Ship to 88-B;Resende;SP;10354;Brazil;Rua do Mercado, 5678
+10257;35;4;16.07.2014;13.08.2014;22.07.2014;3;81,91;Destination JYDLM;San Cristóbal;Táchira;10199;Venezuela;Carrera1234 con Ave. Carlos Soublette #8-35
+10258;20;1;17.07.2014;14.08.2014;23.07.2014;1;140,51;Destination RVDMF;Graz;;10157;Austria;Kirchgasse 9012
+10259;13;4;18.07.2014;15.08.2014;25.07.2014;3;3,25;Destination LGGCH;México D.F.;;10137;Mexico;Sierras de Granada 9012
+10260;56;4;19.07.2014;16.08.2014;29.07.2014;1;55,09;Ship to 56-A;Köln;;10258;Germany;Mehrheimerstr. 0123
+10261;61;4;19.07.2014;16.08.2014;30.07.2014;2;3,05;Ship to 61-B;Rio de Janeiro;RJ;10274;Brazil;Rua da Panificadora, 6789
+10262;65;8;22.07.2014;19.08.2014;25.07.2014;3;48,29;Ship to 65-B;Albuquerque;NM;10286;USA;8901 Milton Dr.
+10263;20;9;23.07.2014;20.08.2014;31.07.2014;3;146,06;Destination FFXKT;Graz;;10158;Austria;Kirchgasse 0123
+10264;24;6;24.07.2014;21.08.2014;23.08.2014;3;3,67;Destination KBSBN;Bräcke;;10167;Sweden;Åkergatan 9012
+10265;7;2;25.07.2014;22.08.2014;12.08.2014;1;55,28;Ship to 7-A;Strasbourg;;10329;France;0123, place Kléber
+10266;87;3;26.07.2014;06.09.2014;31.07.2014;3;25,73;Ship to 87-B;Oulu;;10351;Finland;Torikatu 2345
+10267;25;4;29.07.2014;26.08.2014;06.08.2014;1;208,58;Destination VAPXU;München;;10168;Germany;Berliner Platz 0123
+10268;33;8;30.07.2014;27.08.2014;02.08.2014;3;66,29;Destination QJVQH;Caracas;DF;10193;Venezuela;5ª Ave. Los Palos Grandes 5678
+10269;89;5;31.07.2014;14.08.2014;09.08.2014;1;4,56;Ship to 89-B;Seattle;WA;10357;USA;8901 - 12th Ave. S.
+10270;87;1;01.08.2014;29.08.2014;02.08.2014;1;136,54;Ship to 87-B;Oulu;;10351;Finland;Torikatu 2345
+10271;75;6;01.08.2014;29.08.2014;30.08.2014;2;4,54;Ship to 75-C;Lander;WY;10316;USA;P.O. Box 7890
+10272;65;6;02.08.2014;30.08.2014;06.08.2014;2;98,03;Ship to 65-A;Albuquerque;NM;10285;USA;7890 Milton Dr.
+10273;63;3;05.08.2014;02.09.2014;12.08.2014;3;76,07;Ship to 63-A;Cunewalde;;10279;Germany;Taucherstraße 1234
+10274;85;6;06.08.2014;03.09.2014;16.08.2014;1;6,01;Ship to 85-B;Reims;;10345;France;6789 rue de l'Abbaye
+10275;49;1;07.08.2014;04.09.2014;09.08.2014;1;26,93;Ship to 49-A;Bergamo;;10235;Italy;Via Ludovico il Moro 8901
+10276;80;8;08.08.2014;22.08.2014;14.08.2014;3;13,84;Ship to 80-C;México D.F.;;10334;Mexico;Avda. Azteca 5678
+10277;52;2;09.08.2014;06.09.2014;13.08.2014;3;125,77;Ship to 52-A;Leipzig;;10247;Germany;Heerstr. 9012
+10278;5;8;12.08.2014;09.09.2014;16.08.2014;2;92,69;Ship to 5-C;Luleå;;10269;Sweden;Berguvsvägen  1234
+10279;44;8;13.08.2014;10.09.2014;16.08.2014;2;25,83;Ship to 44-A;Frankfurt a.M.;;10222;Germany;Magazinweg 4567
+10280;5;2;14.08.2014;11.09.2014;12.09.2014;1;8,98;Ship to 5-B;Luleå;;10268;Sweden;Berguvsvägen  0123
+10281;69;4;14.08.2014;28.08.2014;21.08.2014;1;2,94;Ship to 69-A;Madrid;;10297;Spain;Gran Vía, 9012
+10282;69;4;15.08.2014;12.09.2014;21.08.2014;1;12,69;Ship to 69-B;Madrid;;10298;Spain;Gran Vía, 0123
+10283;46;3;16.08.2014;13.09.2014;23.08.2014;3;84,81;Ship to 46-A;Barquisimeto;Lara;10227;Venezuela;Carrera 0123 con Ave. Bolívar #65-98 Llano Largo
+10284;44;4;19.08.2014;16.09.2014;27.08.2014;1;76,56;Ship to 44-A;Frankfurt a.M.;;10222;Germany;Magazinweg 4567
+10285;63;1;20.08.2014;17.09.2014;26.08.2014;2;76,83;Ship to 63-B;Cunewalde;;10280;Germany;Taucherstraße 2345
+10286;63;8;21.08.2014;18.09.2014;30.08.2014;3;229,24;Ship to 63-B;Cunewalde;;10280;Germany;Taucherstraße 2345
+10287;67;8;22.08.2014;19.09.2014;28.08.2014;3;12,76;Ship to 67-A;Rio de Janeiro;RJ;10291;Brazil;Av. Copacabana, 3456
+10288;66;4;23.08.2014;20.09.2014;03.09.2014;1;7,45;Ship to 66-C;Reggio Emilia;;10290;Italy;Strada Provinciale 2345
+10289;11;7;26.08.2014;23.09.2014;28.08.2014;3;22,77;Destination DLEUN;London;;10132;UK;Fauntleroy Circus 4567
+10290;15;8;27.08.2014;24.09.2014;03.09.2014;1;79,7;Destination HQZHO;Sao Paulo;SP;10142;Brazil;Av. dos Lusíadas, 4567
+10291;61;6;27.08.2014;24.09.2014;04.09.2014;2;6,4;Ship to 61-A;Rio de Janeiro;RJ;10273;Brazil;Rua da Panificadora, 5678
+10292;81;1;28.08.2014;25.09.2014;02.09.2014;2;1,35;Ship to 81-A;Sao Paulo;SP;10335;Brazil;Av. Inês de Castro, 6789
+10293;80;1;29.08.2014;26.09.2014;11.09.2014;3;21,18;Ship to 80-B;México D.F.;;10333;Mexico;Avda. Azteca 4567
+10294;65;4;30.08.2014;27.09.2014;05.09.2014;2;147,26;Ship to 65-A;Albuquerque;NM;10285;USA;7890 Milton Dr.
+10295;85;2;02.09.2014;30.09.2014;10.09.2014;2;1,15;Ship to 85-C;Reims;;10346;France;7890 rue de l'Abbaye
+10296;46;6;03.09.2014;01.10.2014;11.09.2014;1;0,12;Ship to 46-C;Barquisimeto;Lara;10229;Venezuela;Carrera 2345 con Ave. Bolívar #65-98 Llano Largo
+10297;7;5;04.09.2014;16.10.2014;10.09.2014;2;5,74;Ship to 7-C;Strasbourg;;10331;France;2345, place Kléber
+10298;37;6;05.09.2014;03.10.2014;11.09.2014;2;168,22;Destination ATSOA;Cork;Co. Cork;10202;Ireland;4567 Johnstown Road
+10299;67;4;06.09.2014;04.10.2014;13.09.2014;2;29,76;Ship to 67-A;Rio de Janeiro;RJ;10291;Brazil;Av. Copacabana, 3456
+10300;49;2;09.09.2014;07.10.2014;18.09.2014;2;17,68;Ship to 49-A;Bergamo;;10235;Italy;Via Ludovico il Moro 8901
+10301;86;8;09.09.2014;07.10.2014;17.09.2014;2;45,08;Ship to 86-A;Stuttgart;;10347;Germany;Adenauerallee 8901
+10302;76;4;10.09.2014;08.10.2014;09.10.2014;2;6,27;Ship to 76-B;Charleroi;;10318;Belgium;Boulevard Tirou, 9012
+10303;30;7;11.09.2014;09.10.2014;18.09.2014;2;107,83;Destination IIYDD;Sevilla;;10183;Spain;C/ Romero, 5678
+10304;80;1;12.09.2014;10.10.2014;17.09.2014;2;63,79;Ship to 80-C;México D.F.;;10334;Mexico;Avda. Azteca 5678
+10305;55;8;13.09.2014;11.10.2014;09.10.2014;3;257,62;Ship to 55-B;Anchorage;AK;10256;USA;8901 Bering St.
+10306;69;1;16.09.2014;14.10.2014;23.09.2014;3;7,56;Ship to 69-B;Madrid;;10298;Spain;Gran Vía, 0123
+10307;48;2;17.09.2014;15.10.2014;25.09.2014;2;0,56;Ship to 48-B;Portland;OR;10233;USA;6789 Chiaroscuro Rd.
+10308;2;7;18.09.2014;16.10.2014;24.09.2014;3;1,61;Destination QMVCI;México D.F.;;10180;Mexico;Avda. de la Constitución 2345
+10309;37;3;19.09.2014;17.10.2014;23.10.2014;1;47,3;Destination ATSOA;Cork;Co. Cork;10202;Ireland;4567 Johnstown Road
+10310;77;8;20.09.2014;18.10.2014;27.09.2014;2;17,52;Ship to 77-B;Portland;OR;10321;USA;2345 Jefferson Way Suite 2
+10311;18;1;20.09.2014;04.10.2014;26.09.2014;3;24,69;Destination SNPXM;Nantes;;10148;France;0123, rue des Cinquante Otages
+10312;86;2;23.09.2014;21.10.2014;03.10.2014;2;40,26;Ship to 86-B;Stuttgart;;10348;Germany;Adenauerallee 9012
+10313;63;2;24.09.2014;22.10.2014;04.10.2014;2;1,96;Ship to 63-A;Cunewalde;;10279;Germany;Taucherstraße 1234
+10314;65;1;25.09.2014;23.10.2014;04.10.2014;2;74,16;Ship to 65-A;Albuquerque;NM;10285;USA;7890 Milton Dr.
+10315;38;4;26.09.2014;24.10.2014;03.10.2014;2;41,76;Destination AXVHD;Cowes;Isle of Wight;10207;UK;Garden House Crowther Way 9012
+10316;65;1;27.09.2014;25.10.2014;08.10.2014;3;150,15;Ship to 65-B;Albuquerque;NM;10286;USA;8901 Milton Dr.
+10317;48;6;30.09.2014;28.10.2014;10.10.2014;1;12,69;Ship to 48-B;Portland;OR;10233;USA;6789 Chiaroscuro Rd.
+10318;38;8;01.10.2014;29.10.2014;04.10.2014;2;4,73;Destination AXVHD;Cowes;Isle of Wight;10207;UK;Garden House Crowther Way 9012
+10319;80;7;02.10.2014;30.10.2014;11.10.2014;3;64,5;Ship to 80-B;México D.F.;;10333;Mexico;Avda. Azteca 4567
+10320;87;5;03.10.2014;17.10.2014;18.10.2014;3;34,57;Ship to 87-A;Oulu;;10350;Finland;Torikatu 1234
+10321;38;3;03.10.2014;31.10.2014;11.10.2014;2;3,43;Destination LMVGS;Cowes;Isle of Wight;10206;UK;Garden House Crowther Way 8901
+10322;58;7;04.10.2014;01.11.2014;23.10.2014;3;0,4;Ship to 58-A;México D.F.;;10261;Mexico;Calle Dr. Jorge Cash 3456
+10323;39;4;07.10.2014;04.11.2014;14.10.2014;1;4,88;Destination RMBHM;Brandenburg;;10209;Germany;Maubelstr. 1234
+10324;71;9;08.10.2014;05.11.2014;10.10.2014;1;214,27;Ship to 71-C;Boise;ID;10307;USA;9012 Suffolk Ln.
+10325;39;1;09.10.2014;23.10.2014;14.10.2014;3;64,86;Destination RMBHM;Brandenburg;;10209;Germany;Maubelstr. 1234
+10326;8;4;10.10.2014;07.11.2014;14.10.2014;2;77,92;Ship to 8-A;Madrid;;10359;Spain;C/ Araquil, 0123
+10327;24;2;11.10.2014;08.11.2014;14.10.2014;1;63,36;Destination NCKKO;Bräcke;;10165;Sweden;Åkergatan 7890
+10328;28;4;14.10.2014;11.11.2014;17.10.2014;3;87,03;Destination CIRQO;Lisboa;;10176;Portugal;Jardim das rosas n. 8901
+10329;75;4;15.10.2014;26.11.2014;23.10.2014;2;191,67;Ship to 75-C;Lander;WY;10316;USA;P.O. Box 7890
+10330;46;3;16.10.2014;13.11.2014;28.10.2014;1;12,75;Ship to 46-A;Barquisimeto;Lara;10227;Venezuela;Carrera 0123 con Ave. Bolívar #65-98 Llano Largo
+10331;9;9;16.10.2014;27.11.2014;21.10.2014;1;10,19;Ship to 9-C;Marseille;;10369;France;0123, rue des Bouchers
+10332;51;3;17.10.2014;28.11.2014;21.10.2014;2;52,84;Ship to 51-B;Montréal;Québec;10245;Canada;7890 rue St. Laurent
+10333;87;5;18.10.2014;15.11.2014;25.10.2014;3;0,59;Ship to 87-C;Oulu;;10352;Finland;Torikatu 3456
+10334;84;8;21.10.2014;18.11.2014;28.10.2014;2;8,56;Ship to 84-B;Lyon;;10343;France;4567, rue du Commerce
+10335;37;7;22.10.2014;19.11.2014;24.10.2014;2;42,11;Destination ATSOA;Cork;Co. Cork;10202;Ireland;4567 Johnstown Road
+10336;60;7;23.10.2014;20.11.2014;25.10.2014;2;15,51;Ship to 60-B;Lisboa;;10271;Portugal;Estrada da saúde n. 3456
+10337;25;4;24.10.2014;21.11.2014;29.10.2014;3;108,26;Destination QOCBL;München;;10169;Germany;Berliner Platz 1234
+10338;55;4;25.10.2014;22.11.2014;29.10.2014;3;84,21;Ship to 55-C;Anchorage;AK;10257;USA;9012 Bering St.
+10339;51;2;28.10.2014;25.11.2014;04.11.2014;2;15,66;Ship to 51-C;Montréal;Québec;10246;Canada;8901 rue St. Laurent
+10340;9;1;29.10.2014;26.11.2014;08.11.2014;3;166,31;Ship to 9-A;Marseille;;10367;France;8901, rue des Bouchers
+10341;73;7;29.10.2014;26.11.2014;05.11.2014;3;26,78;Ship to 73-A;Kobenhavn;;10310;Denmark;Vinbæltet 1234
+10342;25;4;30.10.2014;13.11.2014;04.11.2014;2;54,83;Destination VAPXU;München;;10168;Germany;Berliner Platz 0123
+10343;44;4;31.10.2014;28.11.2014;06.11.2014;1;110,37;Ship to 44-A;Frankfurt a.M.;;10222;Germany;Magazinweg 4567
+10344;89;4;01.11.2014;29.11.2014;05.11.2014;2;23,29;Ship to 89-A;Seattle;WA;10356;USA;7890 - 12th Ave. S.
+10345;63;2;04.11.2014;02.12.2014;11.11.2014;2;249,06;Ship to 63-B;Cunewalde;;10280;Germany;Taucherstraße 2345
+10346;65;3;05.11.2014;17.12.2014;08.11.2014;3;142,08;Ship to 65-A;Albuquerque;NM;10285;USA;7890 Milton Dr.
+10347;21;4;06.11.2014;04.12.2014;08.11.2014;3;3,1;Destination KKELL;Sao Paulo;SP;10162;Brazil;Rua Orós, 4567
+10348;86;4;07.11.2014;05.12.2014;15.11.2014;2;0,78;Ship to 86-B;Stuttgart;;10348;Germany;Adenauerallee 9012
+10349;75;7;08.11.2014;06.12.2014;15.11.2014;1;8,63;Ship to 75-C;Lander;WY;10316;USA;P.O. Box 7890
+10350;41;6;11.11.2014;09.12.2014;03.12.2014;2;64,19;Destination DWJIO;Toulouse;;10217;France;9012 rue Alsace-Lorraine
+10351;20;1;11.11.2014;09.12.2014;20.11.2014;1;162,33;Destination RVDMF;Graz;;10157;Austria;Kirchgasse 9012
+10352;28;3;12.11.2014;26.11.2014;18.11.2014;3;1,3;Destination OTSWR;Lisboa;;10177;Portugal;Jardim das rosas n. 9012
+10353;59;7;13.11.2014;11.12.2014;25.11.2014;3;360,63;Ship to 59-B;Salzburg;;10265;Austria;Geislweg 7890
+10354;58;8;14.11.2014;12.12.2014;20.11.2014;3;53,8;Ship to 58-C;México D.F.;;10263;Mexico;Calle Dr. Jorge Cash 5678
+10355;4;6;15.11.2014;13.12.2014;20.11.2014;1;41,95;Ship to 4-A;Colchester;Essex;10238;UK;Brook Farm Stratford St. Mary 0123
+10356;86;6;18.11.2014;16.12.2014;27.11.2014;2;36,71;Ship to 86-A;Stuttgart;;10347;Germany;Adenauerallee 8901
+10357;46;1;19.11.2014;17.12.2014;02.12.2014;3;34,88;Ship to 46-B;Barquisimeto;Lara;10228;Venezuela;Carrera 1234 con Ave. Bolívar #65-98 Llano Largo
+10358;41;5;20.11.2014;18.12.2014;27.11.2014;1;19,64;Ship to 41-C;Toulouse;;10218;France;0123 rue Alsace-Lorraine
+10359;72;5;21.11.2014;19.12.2014;26.11.2014;3;288,43;Ship to 72-C;London;;10309;UK;1234 Wadhurst Rd.
+10360;7;4;22.11.2014;20.12.2014;02.12.2014;3;131,7;Ship to 7-C;Strasbourg;;10331;France;2345, place Kléber
+10361;63;1;22.11.2014;20.12.2014;03.12.2014;2;183,17;Ship to 63-C;Cunewalde;;10281;Germany;Taucherstraße 3456
+10362;9;3;25.11.2014;23.12.2014;28.11.2014;1;96,04;Ship to 9-B;Marseille;;10368;France;9012, rue des Bouchers
+10363;17;4;26.11.2014;24.12.2014;04.12.2014;3;30,54;Destination BJCXA;Aachen;;10145;Germany;Walserweg 7890
+10364;19;1;26.11.2014;07.01.2015;04.12.2014;1;71,97;Destination QTKCU;London;;10151;UK;3456 King George
+10365;3;3;27.11.2014;25.12.2014;02.12.2014;2;22;Destination FQFLS;México D.F.;;10211;Mexico;Mataderos  3456
+10366;29;8;28.11.2014;09.01.2015;30.12.2014;2;10,14;Destination VPNNG;Barcelona;;10178;Spain;Rambla de Cataluña, 0123
+10367;83;7;28.11.2014;26.12.2014;02.12.2014;3;13,55;Ship to 83-B;Århus;;10340;Denmark;Smagsloget 1234
+10368;20;2;29.11.2014;27.12.2014;02.12.2014;2;101,95;Destination RVDMF;Graz;;10157;Austria;Kirchgasse 9012
+10369;75;8;02.12.2014;30.12.2014;09.12.2014;2;195,68;Ship to 75-C;Lander;WY;10316;USA;P.O. Box 7890
+10370;14;6;03.12.2014;31.12.2014;27.12.2014;2;1,17;Destination YUJRD;Bern;;10139;Switzerland;Hauptstr. 1234
+10371;41;1;03.12.2014;31.12.2014;24.12.2014;1;0,45;Ship to 41-C;Toulouse;;10218;France;0123 rue Alsace-Lorraine
+10372;62;5;04.12.2014;01.01.2015;09.12.2014;2;890,78;Ship to 62-A;Sao Paulo;SP;10276;Brazil;Alameda dos Canàrios, 8901
+10373;37;4;05.12.2014;02.01.2015;11.12.2014;3;124,12;Destination KPVYJ;Cork;Co. Cork;10203;Ireland;5678 Johnstown Road
+10374;91;1;05.12.2014;02.01.2015;09.12.2014;3;3,94;Ship to 91-A;Warszawa;;10364;Poland;ul. Filtrowa 5678
+10375;36;3;06.12.2014;03.01.2015;09.12.2014;2;20,12;Destination HOHCR;Elgin;OR;10201;USA;City Center Plaza 3456 Main St.
+10376;51;1;09.12.2014;06.01.2015;13.12.2014;2;20,39;Ship to 51-B;Montréal;Québec;10245;Canada;7890 rue St. Laurent
+10377;72;1;09.12.2014;06.01.2015;13.12.2014;3;22,21;Ship to 72-C;London;;10309;UK;1234 Wadhurst Rd.
+10378;24;5;10.12.2014;07.01.2015;19.12.2014;3;5,44;Destination KBSBN;Bräcke;;10167;Sweden;Åkergatan 9012
+10379;61;2;11.12.2014;08.01.2015;13.12.2014;1;45,03;Ship to 61-B;Rio de Janeiro;RJ;10274;Brazil;Rua da Panificadora, 6789
+10380;37;8;12.12.2014;09.01.2015;16.01.2015;3;35,03;Destination KPVYJ;Cork;Co. Cork;10203;Ireland;5678 Johnstown Road
+10381;46;3;12.12.2014;09.01.2015;13.12.2014;3;7,99;Ship to 46-C;Barquisimeto;Lara;10229;Venezuela;Carrera 2345 con Ave. Bolívar #65-98 Llano Largo
+10382;20;4;13.12.2014;10.01.2015;16.12.2014;1;94,77;Destination FFXKT;Graz;;10158;Austria;Kirchgasse 0123
+10383;4;8;16.12.2014;13.01.2015;18.12.2014;3;34,24;Ship to 4-B;Colchester;Essex;10239;UK;Brook Farm Stratford St. Mary 1234
+10384;5;3;16.12.2014;13.01.2015;20.12.2014;3;168,64;Ship to 5-C;Luleå;;10269;Sweden;Berguvsvägen  1234
+10385;75;1;17.12.2014;14.01.2015;23.12.2014;2;30,96;Ship to 75-B;Lander;WY;10315;USA;P.O. Box 6789
+10386;21;9;18.12.2014;01.01.2015;25.12.2014;3;13,99;Destination RNSMS;Sao Paulo;SP;10160;Brazil;Rua Orós, 2345
+10387;70;1;18.12.2014;15.01.2015;20.12.2014;2;93,63;Ship to 70-B;Stavern;;10303;Norway;Erling Skakkes gate 5678
+10388;72;2;19.12.2014;16.01.2015;20.12.2014;1;34,86;Ship to 72-C;London;;10309;UK;1234 Wadhurst Rd.
+10389;10;4;20.12.2014;17.01.2015;24.12.2014;2;47,42;Destination OLSSJ;Tsawassen;BC;10130;Canada;2345 Tsawassen Blvd.
+10390;20;6;23.12.2014;20.01.2015;26.12.2014;1;126,38;Destination RVDMF;Graz;;10157;Austria;Kirchgasse 9012
+10391;17;3;23.12.2014;20.01.2015;31.12.2014;3;5,45;Destination AJTHX;Aachen;;10147;Germany;Walserweg 9012
+10392;59;2;24.12.2014;21.01.2015;01.01.2015;3;122,46;Ship to 59-A;Salzburg;;10264;Austria;Geislweg 6789
+10393;71;1;25.12.2014;22.01.2015;03.01.2015;3;126,56;Ship to 71-B;Boise;ID;10306;USA;8901 Suffolk Ln.
+10394;36;1;25.12.2014;22.01.2015;03.01.2015;3;30,34;Destination AWPJG;Elgin;OR;10200;USA;City Center Plaza 2345 Main St.
+10395;35;6;26.12.2014;23.01.2015;03.01.2015;1;184,41;Destination JYDLM;San Cristóbal;Táchira;10199;Venezuela;Carrera1234 con Ave. Carlos Soublette #8-35
+10396;25;1;27.12.2014;10.01.2015;06.01.2015;3;135,35;Destination VAPXU;München;;10168;Germany;Berliner Platz 0123
+10397;60;5;27.12.2014;24.01.2015;02.01.2015;1;60,26;Ship to 60-A;Lisboa;;10270;Portugal;Estrada da saúde n. 2345
+10398;71;2;30.12.2014;27.01.2015;09.01.2015;3;89,16;Ship to 71-C;Boise;ID;10307;USA;9012 Suffolk Ln.
+10399;83;8;31.12.2014;14.01.2015;08.01.2015;3;27,36;Ship to 83-C;Århus;;10341;Denmark;Smagsloget 2345
+10400;19;1;01.01.2015;29.01.2015;16.01.2015;3;83,93;Destination BBMRT;London;;10152;UK;4567 King George
+10401;65;1;01.01.2015;29.01.2015;10.01.2015;1;12,51;Ship to 65-A;Albuquerque;NM;10285;USA;7890 Milton Dr.
+10402;20;8;02.01.2015;13.02.2015;10.01.2015;2;67,88;Destination FFXKT;Graz;;10158;Austria;Kirchgasse 0123
+10403;20;4;03.01.2015;31.01.2015;09.01.2015;3;73,79;Destination RVDMF;Graz;;10157;Austria;Kirchgasse 9012
+10404;49;2;03.01.2015;31.01.2015;08.01.2015;1;155,97;Ship to 49-B;Bergamo;;10236;Italy;Via Ludovico il Moro 9012
+10405;47;1;06.01.2015;03.02.2015;22.01.2015;1;34,82;Ship to 47-B;I. de Margarita;Nueva Esparta;10231;Venezuela;Ave. 5 de Mayo Porlamar 4567
+10406;62;7;07.01.2015;18.02.2015;13.01.2015;1;108,04;Ship to 62-A;Sao Paulo;SP;10276;Brazil;Alameda dos Canàrios, 8901
+10407;56;2;07.01.2015;04.02.2015;30.01.2015;2;91,48;Ship to 56-B;Köln;;10259;Germany;Mehrheimerstr. 1234
+10408;23;8;08.01.2015;05.02.2015;14.01.2015;1;11,26;Destination PXQRR;Lille;;10163;France;5678, chaussée de Tournai
+10409;54;3;09.01.2015;06.02.2015;14.01.2015;1;29,83;Ship to 54-C;Buenos Aires;;10254;Argentina;Ing. Gustavo Moncada 6789 Piso 20-A
+10410;10;3;10.01.2015;07.02.2015;15.01.2015;3;2,4;Destination OLSSJ;Tsawassen;BC;10130;Canada;2345 Tsawassen Blvd.
+10411;10;9;10.01.2015;07.02.2015;21.01.2015;3;23,65;Destination XJIBQ;Tsawassen;BC;10129;Canada;1234 Tsawassen Blvd.
+10412;87;8;13.01.2015;10.02.2015;15.01.2015;2;3,77;Ship to 87-C;Oulu;;10352;Finland;Torikatu 3456
+10413;41;3;14.01.2015;11.02.2015;16.01.2015;2;95,66;Destination DWJIO;Toulouse;;10217;France;9012 rue Alsace-Lorraine
+10414;21;2;14.01.2015;11.02.2015;17.01.2015;3;21,48;Destination SSYXZ;Sao Paulo;SP;10161;Brazil;Rua Orós, 3456
+10415;36;3;15.01.2015;12.02.2015;24.01.2015;1;0,2;Destination AWPJG;Elgin;OR;10200;USA;City Center Plaza 2345 Main St.
+10416;87;8;16.01.2015;13.02.2015;27.01.2015;3;22,72;Ship to 87-A;Oulu;;10350;Finland;Torikatu 1234
+10417;73;4;16.01.2015;13.02.2015;28.01.2015;3;70,29;Ship to 73-C;Kobenhavn;;10311;Denmark;Vinbæltet 2345
+10418;63;4;17.01.2015;14.02.2015;24.01.2015;1;17,55;Ship to 63-B;Cunewalde;;10280;Germany;Taucherstraße 2345
+10419;68;4;20.01.2015;17.02.2015;30.01.2015;2;137,35;Ship to 68-A;Genève;;10294;Switzerland;Starenweg 6789
+10420;88;3;21.01.2015;18.02.2015;27.01.2015;1;44,12;Ship to 88-C;Resende;SP;10355;Brazil;Rua do Mercado, 6789
+10421;61;8;21.01.2015;04.03.2015;27.01.2015;1;99,23;Ship to 61-C;Rio de Janeiro;RJ;10275;Brazil;Rua da Panificadora, 7890
+10422;27;2;22.01.2015;19.02.2015;31.01.2015;1;3,02;Destination FFLQT;Torino;;10174;Italy;Via Monte Bianco 6789
+10423;31;6;23.01.2015;06.02.2015;24.02.2015;3;24,5;Destination VNIAG;Campinas;SP;10187;Brazil;Av. Brasil, 9012
+10424;51;7;23.01.2015;20.02.2015;27.01.2015;2;370,61;Ship to 51-C;Montréal;Québec;10246;Canada;8901 rue St. Laurent
+10425;41;6;24.01.2015;21.02.2015;14.02.2015;2;7,93;Destination DWJIO;Toulouse;;10217;France;9012 rue Alsace-Lorraine
+10426;29;4;27.01.2015;24.02.2015;06.02.2015;1;18,69;Destination WOFLH;Barcelona;;10179;Spain;Rambla de Cataluña, 1234
+10427;59;4;27.01.2015;24.02.2015;03.03.2015;2;31,29;Ship to 59-C;Salzburg;;10266;Austria;Geislweg 8901
+10428;66;7;28.01.2015;25.02.2015;04.02.2015;1;11,09;Ship to 66-C;Reggio Emilia;;10290;Italy;Strada Provinciale 2345
+10429;37;3;29.01.2015;12.03.2015;07.02.2015;2;56,63;Destination DGKOU;Cork;Co. Cork;10204;Ireland;6789 Johnstown Road
+10430;20;4;30.01.2015;13.02.2015;03.02.2015;1;458,78;Destination CUVPF;Graz;;10159;Austria;Kirchgasse 1234
+10431;10;4;30.01.2015;13.02.2015;07.02.2015;2;44,17;Destination OLSSJ;Tsawassen;BC;10130;Canada;2345 Tsawassen Blvd.
+10432;75;3;31.01.2015;14.02.2015;07.02.2015;2;4,34;Ship to 75-A;Lander;WY;10314;USA;P.O. Box 5678
+10433;60;3;03.02.2015;03.03.2015;04.03.2015;3;73,83;Ship to 60-A;Lisboa;;10270;Portugal;Estrada da saúde n. 2345
+10434;24;3;03.02.2015;03.03.2015;13.02.2015;2;17,92;Destination NCKKO;Bräcke;;10165;Sweden;Åkergatan 7890
+10435;16;8;04.02.2015;18.03.2015;07.02.2015;2;9,21;Destination QKQNB;London;;10143;UK;Berkeley Gardens 5678  Brewery
+10436;7;3;05.02.2015;05.03.2015;11.02.2015;2;156,66;Ship to 7-C;Strasbourg;;10331;France;2345, place Kléber
+10437;87;8;05.02.2015;05.03.2015;12.02.2015;1;19,97;Ship to 87-A;Oulu;;10350;Finland;Torikatu 1234
+10438;79;3;06.02.2015;06.03.2015;14.02.2015;2;8,24;Ship to 79-A;Münster;;10326;Germany;Luisenstr. 7890
+10439;51;6;07.02.2015;07.03.2015;10.02.2015;3;4,07;Ship to 51-C;Montréal;Québec;10246;Canada;8901 rue St. Laurent
+10440;71;4;10.02.2015;10.03.2015;28.02.2015;2;86,53;Ship to 71-B;Boise;ID;10306;USA;8901 Suffolk Ln.
+10441;55;3;10.02.2015;24.03.2015;14.03.2015;2;73,02;Ship to 55-C;Anchorage;AK;10257;USA;9012 Bering St.
+10442;20;3;11.02.2015;11.03.2015;18.02.2015;2;47,94;Destination RVDMF;Graz;;10157;Austria;Kirchgasse 9012
+10443;66;8;12.02.2015;12.03.2015;14.02.2015;1;13,95;Ship to 66-C;Reggio Emilia;;10290;Italy;Strada Provinciale 2345
+10444;5;3;12.02.2015;12.03.2015;21.02.2015;3;3,5;Ship to 5-B;Luleå;;10268;Sweden;Berguvsvägen  0123
+10445;5;3;13.02.2015;13.03.2015;20.02.2015;1;9,3;Ship to 5-A;Luleå;;10267;Sweden;Berguvsvägen  9012
+10446;79;6;14.02.2015;14.03.2015;19.02.2015;1;14,68;Ship to 79-C;Münster;;10328;Germany;Luisenstr. 9012
+10447;67;4;14.02.2015;14.03.2015;07.03.2015;2;68,66;Ship to 67-C;Rio de Janeiro;RJ;10293;Brazil;Av. Copacabana, 5678
+10448;64;4;17.02.2015;17.03.2015;24.02.2015;2;38,82;Ship to 64-A;Buenos Aires;;10282;Argentina;Av. del Libertador 4567
+10449;7;3;18.02.2015;18.03.2015;27.02.2015;2;53,3;Ship to 7-C;Strasbourg;;10331;France;2345, place Kléber
+10450;84;8;19.02.2015;19.03.2015;11.03.2015;2;7,23;Ship to 84-C;Lyon;;10344;France;5678, rue du Commerce
+10451;63;4;19.02.2015;05.03.2015;12.03.2015;3;189,09;Ship to 63-C;Cunewalde;;10281;Germany;Taucherstraße 3456
+10452;71;8;20.02.2015;20.03.2015;26.02.2015;1;140,26;Ship to 71-B;Boise;ID;10306;USA;8901 Suffolk Ln.
+10453;4;1;21.02.2015;21.03.2015;26.02.2015;2;25,36;Ship to 4-C;Colchester;Essex;10240;UK;Brook Farm Stratford St. Mary 2345
+10454;41;4;21.02.2015;21.03.2015;25.02.2015;3;2,74;Ship to 41-C;Toulouse;;10218;France;0123 rue Alsace-Lorraine
+10455;87;8;24.02.2015;07.04.2015;03.03.2015;2;180,45;Ship to 87-B;Oulu;;10351;Finland;Torikatu 2345
+10456;39;8;25.02.2015;08.04.2015;28.02.2015;2;8,12;Destination DKMQA;Brandenburg;;10208;Germany;Maubelstr. 0123
+10457;39;2;25.02.2015;25.03.2015;03.03.2015;1;11,57;Destination RMBHM;Brandenburg;;10209;Germany;Maubelstr. 1234
+10458;76;7;26.02.2015;26.03.2015;04.03.2015;3;147,06;Ship to 76-A;Charleroi;;10317;Belgium;Boulevard Tirou, 8901
+10459;84;4;27.02.2015;27.03.2015;28.02.2015;2;25,09;Ship to 84-B;Lyon;;10343;France;4567, rue du Commerce
+10460;24;8;28.02.2015;28.03.2015;03.03.2015;1;16,27;Destination YCMPK;Bräcke;;10166;Sweden;Åkergatan 8901
+10461;46;1;28.02.2015;28.03.2015;05.03.2015;3;148,61;Ship to 46-A;Barquisimeto;Lara;10227;Venezuela;Carrera 0123 con Ave. Bolívar #65-98 Llano Largo
+10462;16;2;03.03.2015;31.03.2015;18.03.2015;1;6,17;Destination ARRMM;London;;10144;UK;Berkeley Gardens 6789  Brewery
+10463;76;5;04.03.2015;01.04.2015;06.03.2015;3;14,78;Ship to 76-B;Charleroi;;10318;Belgium;Boulevard Tirou, 9012
+10464;28;4;04.03.2015;01.04.2015;14.03.2015;2;89;Destination OTSWR;Lisboa;;10177;Portugal;Jardim das rosas n. 9012
+10465;83;1;05.03.2015;02.04.2015;14.03.2015;3;145,04;Ship to 83-A;Århus;;10339;Denmark;Smagsloget 0123
+10466;15;4;06.03.2015;03.04.2015;13.03.2015;1;11,93;Destination GGSQD;Sao Paulo;SP;10140;Brazil;Av. dos Lusíadas, 2345
+10467;49;8;06.03.2015;03.04.2015;11.03.2015;2;4,93;Ship to 49-C;Bergamo;;10237;Italy;Via Ludovico il Moro 0123
+10468;39;3;07.03.2015;04.04.2015;12.03.2015;3;44,12;Destination RMBHM;Brandenburg;;10209;Germany;Maubelstr. 1234
+10469;89;1;10.03.2015;07.04.2015;14.03.2015;1;60,18;Ship to 89-C;Seattle;WA;10358;USA;9012 - 12th Ave. S.
+10470;9;4;11.03.2015;08.04.2015;14.03.2015;2;64,56;Ship to 9-C;Marseille;;10369;France;0123, rue des Bouchers
+10471;11;2;11.03.2015;08.04.2015;18.03.2015;3;45,59;Destination NZASL;London;;10133;UK;Fauntleroy Circus 5678
+10472;72;8;12.03.2015;09.04.2015;19.03.2015;1;4,2;Ship to 72-A;London;;10308;UK;0123 Wadhurst Rd.
+10473;38;1;13.03.2015;27.03.2015;21.03.2015;3;16,37;Destination AXVHD;Cowes;Isle of Wight;10207;UK;Garden House Crowther Way 9012
+10474;58;5;13.03.2015;10.04.2015;21.03.2015;2;83,49;Ship to 58-C;México D.F.;;10263;Mexico;Calle Dr. Jorge Cash 5678
+10475;76;9;14.03.2015;11.04.2015;04.04.2015;1;68,52;Ship to 76-C;Charleroi;;10319;Belgium;Boulevard Tirou, 0123
+10476;35;8;17.03.2015;14.04.2015;24.03.2015;3;4,41;Destination SXYQX;San Cristóbal;Táchira;10198;Venezuela;Carrera 0123 con Ave. Carlos Soublette #8-35
+10477;60;5;17.03.2015;14.04.2015;25.03.2015;2;13,02;Ship to 60-A;Lisboa;;10270;Portugal;Estrada da saúde n. 2345
+10478;84;2;18.03.2015;01.04.2015;26.03.2015;3;4,81;Ship to 84-C;Lyon;;10344;France;5678, rue du Commerce
+10479;65;3;19.03.2015;16.04.2015;21.03.2015;3;708,95;Ship to 65-C;Albuquerque;NM;10287;USA;9012 Milton Dr.
+10480;23;6;20.03.2015;17.04.2015;24.03.2015;2;1,35;Destination AGPCO;Lille;;10164;France;6789, chaussée de Tournai
+10481;67;8;20.03.2015;17.04.2015;25.03.2015;2;64,33;Ship to 67-A;Rio de Janeiro;RJ;10291;Brazil;Av. Copacabana, 3456
+10482;43;1;21.03.2015;18.04.2015;10.04.2015;3;7,48;Ship to 43-B;Walla Walla;WA;10221;USA;3456 Orchestra Terrace
+10483;89;7;24.03.2015;21.04.2015;25.04.2015;2;15,28;Ship to 89-A;Seattle;WA;10356;USA;7890 - 12th Ave. S.
+10484;11;3;24.03.2015;21.04.2015;01.04.2015;3;6,88;Destination DLEUN;London;;10132;UK;Fauntleroy Circus 4567
+10485;47;4;25.03.2015;08.04.2015;31.03.2015;2;64,45;Ship to 47-B;I. de Margarita;Nueva Esparta;10231;Venezuela;Ave. 5 de Mayo Porlamar 4567
+10486;35;1;26.03.2015;23.04.2015;02.04.2015;2;30,53;Destination UOUWK;San Cristóbal;Táchira;10197;Venezuela;Carrera 9012 con Ave. Carlos Soublette #8-35
+10487;62;2;26.03.2015;23.04.2015;28.03.2015;2;71,07;Ship to 62-B;Sao Paulo;SP;10277;Brazil;Alameda dos Canàrios, 9012
+10488;25;8;27.03.2015;24.04.2015;02.04.2015;2;4,93;Destination VAPXU;München;;10168;Germany;Berliner Platz 0123
+10489;59;6;28.03.2015;25.04.2015;09.04.2015;2;5,29;Ship to 59-C;Salzburg;;10266;Austria;Geislweg 8901
+10490;35;7;31.03.2015;28.04.2015;03.04.2015;2;210,19;Destination JYDLM;San Cristóbal;Táchira;10199;Venezuela;Carrera1234 con Ave. Carlos Soublette #8-35
+10491;28;8;31.03.2015;28.04.2015;08.04.2015;3;16,96;Destination OTSWR;Lisboa;;10177;Portugal;Jardim das rosas n. 9012
+10492;10;3;01.04.2015;29.04.2015;11.04.2015;1;62,89;Destination XJIBQ;Tsawassen;BC;10129;Canada;1234 Tsawassen Blvd.
+10493;41;4;02.04.2015;30.04.2015;10.04.2015;3;10,64;Destination OLJND;Toulouse;;10216;France;8901 rue Alsace-Lorraine
+10494;15;4;02.04.2015;30.04.2015;09.04.2015;2;65,99;Destination EVHYA;Sao Paulo;SP;10141;Brazil;Av. dos Lusíadas, 3456
+10495;42;3;03.04.2015;01.05.2015;11.04.2015;3;4,65;Ship to 42-C;Vancouver;BC;10220;Canada;2345 Elm St.
+10496;81;7;04.04.2015;02.05.2015;07.04.2015;2;46,77;Ship to 81-C;Sao Paulo;SP;10336;Brazil;Av. Inês de Castro, 7890
+10497;44;7;04.04.2015;02.05.2015;07.04.2015;1;36,21;Ship to 44-A;Frankfurt a.M.;;10222;Germany;Magazinweg 4567
+10498;35;8;07.04.2015;05.05.2015;11.04.2015;2;29,75;Destination SXYQX;San Cristóbal;Táchira;10198;Venezuela;Carrera 0123 con Ave. Carlos Soublette #8-35
+10499;46;4;08.04.2015;06.05.2015;16.04.2015;2;102,02;Ship to 46-C;Barquisimeto;Lara;10229;Venezuela;Carrera 2345 con Ave. Bolívar #65-98 Llano Largo
+10500;41;6;09.04.2015;07.05.2015;17.04.2015;1;42,68;Destination OLJND;Toulouse;;10216;France;8901 rue Alsace-Lorraine
+10501;6;9;09.04.2015;07.05.2015;16.04.2015;3;8,85;Ship to 6-C;Mannheim;;10302;Germany;Forsterstr. 4567
+10502;58;2;10.04.2015;08.05.2015;29.04.2015;1;69,32;Ship to 58-B;México D.F.;;10262;Mexico;Calle Dr. Jorge Cash 4567
+10503;37;6;11.04.2015;09.05.2015;16.04.2015;2;16,74;Destination ATSOA;Cork;Co. Cork;10202;Ireland;4567 Johnstown Road
+10504;89;4;11.04.2015;09.05.2015;18.04.2015;3;59,13;Ship to 89-B;Seattle;WA;10357;USA;8901 - 12th Ave. S.
+10505;51;3;14.04.2015;12.05.2015;21.04.2015;3;7,13;Ship to 51-B;Montréal;Québec;10245;Canada;7890 rue St. Laurent
+10506;39;9;15.04.2015;13.05.2015;02.05.2015;2;21,19;Destination DKMQA;Brandenburg;;10208;Germany;Maubelstr. 0123
+10507;3;7;15.04.2015;13.05.2015;22.04.2015;1;47,45;Destination FQFLS;México D.F.;;10211;Mexico;Mataderos  3456
+10508;56;1;16.04.2015;14.05.2015;13.05.2015;2;4,99;Ship to 56-C;Köln;;10260;Germany;Mehrheimerstr. 2345
+10509;6;4;17.04.2015;15.05.2015;29.04.2015;1;0,15;Ship to 6-A;Mannheim;;10300;Germany;Forsterstr. 2345
+10510;71;6;18.04.2015;16.05.2015;28.04.2015;3;367,63;Ship to 71-A;Boise;ID;10305;USA;7890 Suffolk Ln.
+10511;9;4;18.04.2015;16.05.2015;21.04.2015;3;350,64;Ship to 9-B;Marseille;;10368;France;9012, rue des Bouchers
+10512;21;7;21.04.2015;19.05.2015;24.04.2015;2;3,53;Destination RNSMS;Sao Paulo;SP;10160;Brazil;Rua Orós, 2345
+10513;86;7;22.04.2015;03.06.2015;28.04.2015;1;105,65;Ship to 86-A;Stuttgart;;10347;Germany;Adenauerallee 8901
+10514;20;3;22.04.2015;20.05.2015;16.05.2015;2;789,95;Destination CUVPF;Graz;;10159;Austria;Kirchgasse 1234
+10515;63;2;23.04.2015;07.05.2015;23.05.2015;1;204,47;Ship to 63-B;Cunewalde;;10280;Germany;Taucherstraße 2345
+10516;37;2;24.04.2015;22.05.2015;01.05.2015;3;62,78;Destination DGKOU;Cork;Co. Cork;10204;Ireland;6789 Johnstown Road
+10517;53;3;24.04.2015;22.05.2015;29.04.2015;3;32,07;Ship to 53-A;London;;10250;UK;South House 2345 Queensbridge
+10518;80;4;25.04.2015;09.05.2015;05.05.2015;2;218,15;Ship to 80-B;México D.F.;;10333;Mexico;Avda. Azteca 4567
+10519;14;6;28.04.2015;26.05.2015;01.05.2015;3;91,76;Destination NRTZZ;Bern;;10138;Switzerland;Hauptstr. 0123
+10520;70;7;29.04.2015;27.05.2015;01.05.2015;1;13,37;Ship to 70-B;Stavern;;10303;Norway;Erling Skakkes gate 5678
+10521;12;8;29.04.2015;27.05.2015;02.05.2015;2;17,22;Destination QTHBC;Buenos Aires;;10134;Argentina;Cerrito 6789
+10522;44;4;30.04.2015;28.05.2015;06.05.2015;1;45,33;Ship to 44-A;Frankfurt a.M.;;10222;Germany;Magazinweg 4567
+10523;72;7;01.05.2015;29.05.2015;30.05.2015;2;77,63;Ship to 72-C;London;;10309;UK;1234 Wadhurst Rd.
+10524;5;1;01.05.2015;29.05.2015;07.05.2015;2;244,79;Ship to 5-A;Luleå;;10267;Sweden;Berguvsvägen  9012
+10525;9;1;02.05.2015;30.05.2015;23.05.2015;2;11,06;Ship to 9-B;Marseille;;10368;France;9012, rue des Bouchers
+10526;87;4;05.05.2015;02.06.2015;15.05.2015;2;58,59;Ship to 87-C;Oulu;;10352;Finland;Torikatu 3456
+10527;63;7;05.05.2015;02.06.2015;07.05.2015;1;41,9;Ship to 63-B;Cunewalde;;10280;Germany;Taucherstraße 2345
+10528;32;6;06.05.2015;20.05.2015;09.05.2015;2;3,35;Destination LLUXZ;Eugene;OR;10189;USA;1234 Baker Blvd.
+10529;50;5;07.05.2015;04.06.2015;09.05.2015;2;66,69;Ship to 50-B;Bruxelles;;10242;Belgium;Rue Joseph-Bens 4567
+10530;59;3;08.05.2015;05.06.2015;12.05.2015;2;339,22;Ship to 59-C;Salzburg;;10266;Austria;Geislweg 8901
+10531;54;7;08.05.2015;05.06.2015;19.05.2015;1;8,12;Ship to 54-A;Buenos Aires;;10252;Argentina;Ing. Gustavo Moncada 4567 Piso 20-A
+10532;19;7;09.05.2015;06.06.2015;12.05.2015;3;74,46;Destination QTKCU;London;;10151;UK;3456 King George
+10533;24;8;12.05.2015;09.06.2015;22.05.2015;1;188,04;Destination KBSBN;Bräcke;;10167;Sweden;Åkergatan 9012
+10534;44;8;12.05.2015;09.06.2015;14.05.2015;2;27,94;Ship to 44-A;Frankfurt a.M.;;10222;Germany;Magazinweg 4567
+10535;3;4;13.05.2015;10.06.2015;21.05.2015;1;15,64;Destination FQFLS;México D.F.;;10211;Mexico;Mataderos  3456
+10536;44;3;14.05.2015;11.06.2015;06.06.2015;2;58,88;Ship to 44-B;Frankfurt a.M.;;10223;Germany;Magazinweg 5678
+10537;68;1;14.05.2015;28.05.2015;19.05.2015;1;78,85;Ship to 68-B;Genève;;10295;Switzerland;Starenweg 7890
+10538;11;9;15.05.2015;12.06.2015;16.05.2015;3;4,87;Destination DLEUN;London;;10132;UK;Fauntleroy Circus 4567
+10539;11;6;16.05.2015;13.06.2015;23.05.2015;3;12,36;Destination DLEUN;London;;10132;UK;Fauntleroy Circus 4567
+10540;63;3;19.05.2015;16.06.2015;13.06.2015;3;1007,64;Ship to 63-C;Cunewalde;;10281;Germany;Taucherstraße 3456
+10541;34;2;19.05.2015;16.06.2015;29.05.2015;1;68,65;Destination SCQXA;Rio de Janeiro;RJ;10195;Brazil;Rua do Paço, 7890
+10542;39;1;20.05.2015;17.06.2015;26.05.2015;3;10,95;Destination DKMQA;Brandenburg;;10208;Germany;Maubelstr. 0123
+10543;46;8;21.05.2015;18.06.2015;23.05.2015;2;48,17;Ship to 46-B;Barquisimeto;Lara;10228;Venezuela;Carrera 1234 con Ave. Bolívar #65-98 Llano Largo
+10544;48;4;21.05.2015;18.06.2015;30.05.2015;1;24,91;Ship to 48-C;Portland;OR;10234;USA;7890 Chiaroscuro Rd.
+10545;43;8;22.05.2015;19.06.2015;26.06.2015;2;11,92;Ship to 43-B;Walla Walla;WA;10221;USA;3456 Orchestra Terrace
+10546;84;1;23.05.2015;20.06.2015;27.05.2015;3;194,72;Ship to 84-C;Lyon;;10344;France;5678, rue du Commerce
+10547;72;3;23.05.2015;20.06.2015;02.06.2015;2;178,43;Ship to 72-C;London;;10309;UK;1234 Wadhurst Rd.
+10548;79;3;26.05.2015;23.06.2015;02.06.2015;2;1,43;Ship to 79-A;Münster;;10326;Germany;Luisenstr. 7890
+10549;63;5;27.05.2015;10.06.2015;30.05.2015;1;171,24;Ship to 63-C;Cunewalde;;10281;Germany;Taucherstraße 3456
+10550;30;7;28.05.2015;25.06.2015;06.06.2015;3;4,32;Destination GGQIR;Sevilla;;10184;Spain;C/ Romero, 6789
+10551;28;4;28.05.2015;09.07.2015;06.06.2015;3;72,95;Destination OTSWR;Lisboa;;10177;Portugal;Jardim das rosas n. 9012
+10552;35;2;29.05.2015;26.06.2015;05.06.2015;1;83,22;Destination UOUWK;San Cristóbal;Táchira;10197;Venezuela;Carrera 9012 con Ave. Carlos Soublette #8-35
+10553;87;2;30.05.2015;27.06.2015;03.06.2015;2;149,49;Ship to 87-B;Oulu;;10351;Finland;Torikatu 2345
+10554;56;4;30.05.2015;27.06.2015;05.06.2015;3;120,97;Ship to 56-C;Köln;;10260;Germany;Mehrheimerstr. 2345
+10555;71;6;02.06.2015;30.06.2015;04.06.2015;3;252,49;Ship to 71-B;Boise;ID;10306;USA;8901 Suffolk Ln.
+10556;73;2;03.06.2015;15.07.2015;13.06.2015;1;9,8;Ship to 73-A;Kobenhavn;;10310;Denmark;Vinbæltet 1234
+10557;44;9;03.06.2015;17.06.2015;06.06.2015;2;96,72;Ship to 44-C;Frankfurt a.M.;;10224;Germany;Magazinweg 6789
+10558;4;1;04.06.2015;02.07.2015;10.06.2015;2;72,97;Ship to 4-B;Colchester;Essex;10239;UK;Brook Farm Stratford St. Mary 1234
+10559;7;6;05.06.2015;03.07.2015;13.06.2015;1;8,05;Ship to 7-B;Strasbourg;;10330;France;1234, place Kléber
+10560;25;8;06.06.2015;04.07.2015;09.06.2015;1;36,65;Destination QOCBL;München;;10169;Germany;Berliner Platz 1234
+10561;24;2;06.06.2015;04.07.2015;09.06.2015;2;242,21;Destination YCMPK;Bräcke;;10166;Sweden;Åkergatan 8901
+10562;66;1;09.06.2015;07.07.2015;12.06.2015;1;22,95;Ship to 66-B;Reggio Emilia;;10289;Italy;Strada Provinciale 1234
+10563;67;2;10.06.2015;22.07.2015;24.06.2015;2;60,43;Ship to 67-B;Rio de Janeiro;RJ;10292;Brazil;Av. Copacabana, 4567
+10564;65;4;10.06.2015;08.07.2015;16.06.2015;3;13,75;Ship to 65-B;Albuquerque;NM;10286;USA;8901 Milton Dr.
+10565;51;8;11.06.2015;09.07.2015;18.06.2015;2;7,15;Ship to 51-C;Montréal;Québec;10246;Canada;8901 rue St. Laurent
+10566;7;9;12.06.2015;10.07.2015;18.06.2015;1;88,4;Ship to 7-C;Strasbourg;;10331;France;2345, place Kléber
+10567;37;1;12.06.2015;10.07.2015;17.06.2015;1;33,97;Destination DGKOU;Cork;Co. Cork;10204;Ireland;6789 Johnstown Road
+10568;29;3;13.06.2015;11.07.2015;09.07.2015;3;6,54;Destination VPNNG;Barcelona;;10178;Spain;Rambla de Cataluña, 0123
+10569;65;5;16.06.2015;14.07.2015;11.07.2015;1;58,98;Ship to 65-B;Albuquerque;NM;10286;USA;8901 Milton Dr.
+10570;51;3;17.06.2015;15.07.2015;19.06.2015;3;188,99;Ship to 51-C;Montréal;Québec;10246;Canada;8901 rue St. Laurent
+10571;20;8;17.06.2015;29.07.2015;04.07.2015;3;26,06;Destination RVDMF;Graz;;10157;Austria;Kirchgasse 9012
+10572;5;3;18.06.2015;16.07.2015;25.06.2015;2;116,43;Ship to 5-B;Luleå;;10268;Sweden;Berguvsvägen  0123
+10573;3;7;19.06.2015;17.07.2015;20.06.2015;3;84,84;Destination LANNN;México D.F.;;10212;Mexico;Mataderos  4567
+10574;82;4;19.06.2015;17.07.2015;30.06.2015;2;37,6;Ship to 82-A;Kirkland;WA;10337;USA;8901 DaVinci Blvd.
+10575;52;5;20.06.2015;04.07.2015;30.06.2015;1;127,34;Ship to 52-C;Leipzig;;10249;Germany;Heerstr. 1234
+10576;80;3;23.06.2015;07.07.2015;30.06.2015;3;18,56;Ship to 80-C;México D.F.;;10334;Mexico;Avda. Azteca 5678
+10577;82;9;23.06.2015;04.08.2015;30.06.2015;2;25,41;Ship to 82-B;Kirkland;WA;10338;USA;9012 DaVinci Blvd.
+10578;11;4;24.06.2015;22.07.2015;25.07.2015;3;29,6;Destination NZASL;London;;10133;UK;Fauntleroy Circus 5678
+10579;45;1;25.06.2015;23.07.2015;04.07.2015;2;13,73;Ship to 45-C;San Francisco;CA;10226;USA;9012 Polk St. Suite 5
+10580;56;4;26.06.2015;24.07.2015;01.07.2015;3;75,89;Ship to 56-C;Köln;;10260;Germany;Mehrheimerstr. 2345
+10581;21;3;26.06.2015;24.07.2015;02.07.2015;1;3,01;Destination SSYXZ;Sao Paulo;SP;10161;Brazil;Rua Orós, 3456
+10582;6;3;27.06.2015;25.07.2015;14.07.2015;2;27,71;Ship to 6-A;Mannheim;;10300;Germany;Forsterstr. 2345
+10583;87;2;30.06.2015;28.07.2015;04.07.2015;2;7,28;Ship to 87-C;Oulu;;10352;Finland;Torikatu 3456
+10584;7;4;30.06.2015;28.07.2015;04.07.2015;1;59,14;Ship to 7-B;Strasbourg;;10330;France;1234, place Kléber
+10585;88;7;01.07.2015;29.07.2015;10.07.2015;1;13,41;Ship to 88-A;Resende;SP;10353;Brazil;Rua do Mercado, 4567
+10586;66;9;02.07.2015;30.07.2015;09.07.2015;1;0,48;Ship to 66-B;Reggio Emilia;;10289;Italy;Strada Provinciale 1234
+10587;61;1;02.07.2015;30.07.2015;09.07.2015;1;62,52;Ship to 61-C;Rio de Janeiro;RJ;10275;Brazil;Rua da Panificadora, 7890
+10588;63;2;03.07.2015;31.07.2015;10.07.2015;3;194,67;Ship to 63-A;Cunewalde;;10279;Germany;Taucherstraße 1234
+10589;32;8;04.07.2015;01.08.2015;14.07.2015;2;4,42;Destination AVQUS;Eugene;OR;10190;USA;2345 Baker Blvd.
+10590;51;4;07.07.2015;04.08.2015;14.07.2015;3;44,77;Ship to 51-B;Montréal;Québec;10245;Canada;7890 rue St. Laurent
+10591;83;1;07.07.2015;21.07.2015;16.07.2015;1;55,92;Ship to 83-A;Århus;;10339;Denmark;Smagsloget 0123
+10592;44;3;08.07.2015;05.08.2015;16.07.2015;1;32,1;Ship to 44-B;Frankfurt a.M.;;10223;Germany;Magazinweg 5678
+10593;44;7;09.07.2015;06.08.2015;13.08.2015;2;174,2;Ship to 44-C;Frankfurt a.M.;;10224;Germany;Magazinweg 6789
+10594;55;3;09.07.2015;06.08.2015;16.07.2015;2;5,24;Ship to 55-B;Anchorage;AK;10256;USA;8901 Bering St.
+10595;20;2;10.07.2015;07.08.2015;14.07.2015;1;96,78;Destination CUVPF;Graz;;10159;Austria;Kirchgasse 1234
+10596;89;8;11.07.2015;08.08.2015;12.08.2015;1;16,34;Ship to 89-C;Seattle;WA;10358;USA;9012 - 12th Ave. S.
+10597;59;7;11.07.2015;08.08.2015;18.07.2015;3;35,12;Ship to 59-B;Salzburg;;10265;Austria;Geislweg 7890
+10598;65;1;14.07.2015;11.08.2015;18.07.2015;3;44,42;Ship to 65-C;Albuquerque;NM;10287;USA;9012 Milton Dr.
+10599;11;6;15.07.2015;26.08.2015;21.07.2015;3;29,98;Destination DLEUN;London;;10132;UK;Fauntleroy Circus 4567
+10600;36;4;16.07.2015;13.08.2015;21.07.2015;1;45,13;Destination HOHCR;Elgin;OR;10201;USA;City Center Plaza 3456 Main St.
+10601;35;7;16.07.2015;27.08.2015;22.07.2015;1;58,3;Destination UOUWK;San Cristóbal;Táchira;10197;Venezuela;Carrera 9012 con Ave. Carlos Soublette #8-35
+10602;83;8;17.07.2015;14.08.2015;22.07.2015;2;2,92;Ship to 83-A;Århus;;10339;Denmark;Smagsloget 0123
+10603;71;8;18.07.2015;15.08.2015;08.08.2015;2;48,77;Ship to 71-C;Boise;ID;10307;USA;9012 Suffolk Ln.
+10604;28;1;18.07.2015;15.08.2015;29.07.2015;1;7,46;Destination CIRQO;Lisboa;;10176;Portugal;Jardim das rosas n. 8901
+10605;51;1;21.07.2015;18.08.2015;29.07.2015;2;379,13;Ship to 51-B;Montréal;Québec;10245;Canada;7890 rue St. Laurent
+10606;81;4;22.07.2015;19.08.2015;31.07.2015;3;79,4;Ship to 81-C;Sao Paulo;SP;10336;Brazil;Av. Inês de Castro, 7890
+10607;71;5;22.07.2015;19.08.2015;25.07.2015;1;200,24;Ship to 71-C;Boise;ID;10307;USA;9012 Suffolk Ln.
+10608;79;4;23.07.2015;20.08.2015;01.08.2015;2;27,79;Ship to 79-C;Münster;;10328;Germany;Luisenstr. 9012
+10609;18;7;24.07.2015;21.08.2015;30.07.2015;2;1,85;Destination SNPXM;Nantes;;10148;France;0123, rue des Cinquante Otages
+10610;41;8;25.07.2015;22.08.2015;06.08.2015;1;26,78;Ship to 41-C;Toulouse;;10218;France;0123 rue Alsace-Lorraine
+10611;91;6;25.07.2015;22.08.2015;01.08.2015;2;80,65;Ship to 91-B;Warszawa;;10365;Poland;ul. Filtrowa 6789
+10612;71;1;28.07.2015;25.08.2015;01.08.2015;2;544,08;Ship to 71-A;Boise;ID;10305;USA;7890 Suffolk Ln.
+10613;35;4;29.07.2015;26.08.2015;01.08.2015;2;8,11;Destination JYDLM;San Cristóbal;Táchira;10199;Venezuela;Carrera1234 con Ave. Carlos Soublette #8-35
+10614;6;8;29.07.2015;26.08.2015;01.08.2015;3;1,93;Ship to 6-A;Mannheim;;10300;Germany;Forsterstr. 2345
+10615;90;2;30.07.2015;27.08.2015;06.08.2015;3;0,75;Ship to 90-B;Helsinki;;10362;Finland;Keskuskatu 3456
+10616;32;1;31.07.2015;28.08.2015;05.08.2015;2;116,53;Destination LLUXZ;Eugene;OR;10189;USA;1234 Baker Blvd.
+10617;32;4;31.07.2015;28.08.2015;04.08.2015;2;18,53;Destination AVQUS;Eugene;OR;10190;USA;2345 Baker Blvd.
+10618;51;1;01.08.2015;12.09.2015;08.08.2015;1;154,68;Ship to 51-C;Montréal;Québec;10246;Canada;8901 rue St. Laurent
+10619;51;3;04.08.2015;01.09.2015;07.08.2015;3;91,05;Ship to 51-B;Montréal;Québec;10245;Canada;7890 rue St. Laurent
+10620;42;2;05.08.2015;02.09.2015;14.08.2015;3;0,94;Ship to 42-A;Vancouver;BC;10219;Canada;1234 Elm St.
+10621;38;4;05.08.2015;02.09.2015;11.08.2015;2;23,73;Destination LMVGS;Cowes;Isle of Wight;10206;UK;Garden House Crowther Way 8901
+10622;67;4;06.08.2015;03.09.2015;11.08.2015;3;50,97;Ship to 67-A;Rio de Janeiro;RJ;10291;Brazil;Av. Copacabana, 3456
+10623;25;8;07.08.2015;04.09.2015;12.08.2015;2;97,18;Destination VAPXU;München;;10168;Germany;Berliner Platz 0123
+10624;78;4;07.08.2015;04.09.2015;19.08.2015;2;94,8;Ship to 78-C;Butte;MT;10325;USA;6789 Grizzly Peak Rd.
+10625;2;3;08.08.2015;05.09.2015;14.08.2015;1;43,9;Destination QOTQA;México D.F.;;10181;Mexico;Avda. de la Constitución 3456
+10626;5;1;11.08.2015;08.09.2015;20.08.2015;2;138,69;Ship to 5-A;Luleå;;10267;Sweden;Berguvsvägen  9012
+10627;71;8;11.08.2015;22.09.2015;21.08.2015;3;107,46;Ship to 71-B;Boise;ID;10306;USA;8901 Suffolk Ln.
+10628;7;4;12.08.2015;09.09.2015;20.08.2015;3;30,36;Ship to 7-B;Strasbourg;;10330;France;1234, place Kléber
+10629;30;4;12.08.2015;09.09.2015;20.08.2015;3;85,46;Destination IIYDD;Sevilla;;10183;Spain;C/ Romero, 5678
+10630;39;1;13.08.2015;10.09.2015;19.08.2015;2;32,35;Destination RMBHM;Brandenburg;;10209;Germany;Maubelstr. 1234
+10631;41;8;14.08.2015;11.09.2015;15.08.2015;1;0,87;Destination OLJND;Toulouse;;10216;France;8901 rue Alsace-Lorraine
+10632;86;8;14.08.2015;11.09.2015;19.08.2015;1;41,38;Ship to 86-C;Stuttgart;;10349;Germany;Adenauerallee 0123
+10633;20;7;15.08.2015;12.09.2015;18.08.2015;3;477,9;Destination FFXKT;Graz;;10158;Austria;Kirchgasse 0123
+10634;23;4;15.08.2015;12.09.2015;21.08.2015;3;487,38;Destination AGPCO;Lille;;10164;France;6789, chaussée de Tournai
+10635;49;8;18.08.2015;15.09.2015;21.08.2015;3;47,46;Ship to 49-A;Bergamo;;10235;Italy;Via Ludovico il Moro 8901
+10636;87;4;19.08.2015;16.09.2015;26.08.2015;1;1,15;Ship to 87-A;Oulu;;10350;Finland;Torikatu 1234
+10637;62;6;19.08.2015;16.09.2015;26.08.2015;1;201,29;Ship to 62-C;Sao Paulo;SP;10278;Brazil;Alameda dos Canàrios, 0123
+10638;47;3;20.08.2015;17.09.2015;01.09.2015;1;158,44;Ship to 47-B;I. de Margarita;Nueva Esparta;10231;Venezuela;Ave. 5 de Mayo Porlamar 4567
+10639;70;7;20.08.2015;17.09.2015;27.08.2015;3;38,64;Ship to 70-B;Stavern;;10303;Norway;Erling Skakkes gate 5678
+10640;86;4;21.08.2015;18.09.2015;28.08.2015;1;23,55;Ship to 86-A;Stuttgart;;10347;Germany;Adenauerallee 8901
+10641;35;4;22.08.2015;19.09.2015;26.08.2015;2;179,61;Destination JYDLM;San Cristóbal;Táchira;10199;Venezuela;Carrera1234 con Ave. Carlos Soublette #8-35
+10642;73;7;22.08.2015;19.09.2015;05.09.2015;3;41,89;Ship to 73-C;Kobenhavn;;10311;Denmark;Vinbæltet 2345
+10643;1;6;25.08.2015;22.09.2015;02.09.2015;1;29,46;Destination LOUIE;Berlin;;10154;Germany;Obere Str. 6789
+10644;88;3;25.08.2015;22.09.2015;01.09.2015;2;0,14;Ship to 88-A;Resende;SP;10353;Brazil;Rua do Mercado, 4567
+10645;34;4;26.08.2015;23.09.2015;02.09.2015;1;12,41;Destination DPCVR;Rio de Janeiro;RJ;10194;Brazil;Rua do Paço, 6789
+10646;37;9;27.08.2015;08.10.2015;03.09.2015;3;142,33;Destination ATSOA;Cork;Co. Cork;10202;Ireland;4567 Johnstown Road
+10647;61;4;27.08.2015;10.09.2015;03.09.2015;2;45,54;Ship to 61-B;Rio de Janeiro;RJ;10274;Brazil;Rua da Panificadora, 6789
+10648;67;5;28.08.2015;09.10.2015;09.09.2015;2;14,25;Ship to 67-C;Rio de Janeiro;RJ;10293;Brazil;Av. Copacabana, 5678
+10649;50;5;28.08.2015;25.09.2015;29.08.2015;3;6,2;Ship to 50-B;Bruxelles;;10242;Belgium;Rue Joseph-Bens 4567
+10650;21;5;29.08.2015;26.09.2015;03.09.2015;3;176,81;Destination SSYXZ;Sao Paulo;SP;10161;Brazil;Rua Orós, 3456
+10651;86;8;01.09.2015;29.09.2015;11.09.2015;2;20,6;Ship to 86-A;Stuttgart;;10347;Germany;Adenauerallee 8901
+10652;31;4;01.09.2015;29.09.2015;08.09.2015;2;7,14;Destination VNIAG;Campinas;SP;10187;Brazil;Av. Brasil, 9012
+10653;25;1;02.09.2015;30.09.2015;19.09.2015;1;93,25;Destination QOCBL;München;;10169;Germany;Berliner Platz 1234
+10654;5;5;02.09.2015;30.09.2015;11.09.2015;1;55,26;Ship to 5-C;Luleå;;10269;Sweden;Berguvsvägen  1234
+10655;66;1;03.09.2015;01.10.2015;11.09.2015;2;4,41;Ship to 66-B;Reggio Emilia;;10289;Italy;Strada Provinciale 1234
+10656;32;6;04.09.2015;02.10.2015;10.09.2015;1;57,15;Destination AVQUS;Eugene;OR;10190;USA;2345 Baker Blvd.
+10657;71;2;04.09.2015;02.10.2015;15.09.2015;2;352,69;Ship to 71-A;Boise;ID;10305;USA;7890 Suffolk Ln.
+10658;63;4;05.09.2015;03.10.2015;08.09.2015;1;364,15;Ship to 63-C;Cunewalde;;10281;Germany;Taucherstraße 3456
+10659;62;7;05.09.2015;03.10.2015;10.09.2015;2;105,81;Ship to 62-B;Sao Paulo;SP;10277;Brazil;Alameda dos Canàrios, 9012
+10660;36;8;08.09.2015;06.10.2015;15.10.2015;1;111,29;Destination HOHCR;Elgin;OR;10201;USA;City Center Plaza 3456 Main St.
+10661;37;7;09.09.2015;07.10.2015;15.09.2015;3;17,55;Destination ATSOA;Cork;Co. Cork;10202;Ireland;4567 Johnstown Road
+10662;48;3;09.09.2015;07.10.2015;18.09.2015;2;1,28;Ship to 48-C;Portland;OR;10234;USA;7890 Chiaroscuro Rd.
+10663;9;2;10.09.2015;24.09.2015;03.10.2015;2;113,15;Ship to 9-B;Marseille;;10368;France;9012, rue des Bouchers
+10664;28;1;10.09.2015;08.10.2015;19.09.2015;3;1,27;Destination OTSWR;Lisboa;;10177;Portugal;Jardim das rosas n. 9012
+10665;48;1;11.09.2015;09.10.2015;17.09.2015;2;26,31;Ship to 48-B;Portland;OR;10233;USA;6789 Chiaroscuro Rd.
+10666;68;7;12.09.2015;10.10.2015;22.09.2015;2;232,42;Ship to 68-A;Genève;;10294;Switzerland;Starenweg 6789
+10667;20;7;12.09.2015;10.10.2015;19.09.2015;1;78,09;Destination CUVPF;Graz;;10159;Austria;Kirchgasse 1234
+10668;86;1;15.09.2015;13.10.2015;23.09.2015;2;47,22;Ship to 86-C;Stuttgart;;10349;Germany;Adenauerallee 0123
+10669;73;2;15.09.2015;13.10.2015;22.09.2015;1;24,39;Ship to 73-A;Kobenhavn;;10310;Denmark;Vinbæltet 1234
+10670;25;4;16.09.2015;14.10.2015;18.09.2015;1;203,48;Destination QOCBL;München;;10169;Germany;Berliner Platz 1234
+10671;26;1;17.09.2015;15.10.2015;24.09.2015;1;30,34;Destination OPXJT;Nantes;;10172;France;4567, rue Royale
+10672;5;9;17.09.2015;01.10.2015;26.09.2015;2;95,75;Ship to 5-C;Luleå;;10269;Sweden;Berguvsvägen  1234
+10673;90;2;18.09.2015;16.10.2015;19.09.2015;1;22,76;Ship to 90-B;Helsinki;;10362;Finland;Keskuskatu 3456
+10674;38;4;18.09.2015;16.10.2015;30.09.2015;2;0,9;Destination QVTLW;Cowes;Isle of Wight;10205;UK;Garden House Crowther Way 7890
+10675;25;5;19.09.2015;17.10.2015;23.09.2015;2;31,85;Destination WEGWI;München;;10170;Germany;Berliner Platz 2345
+10676;80;2;22.09.2015;20.10.2015;29.09.2015;2;2,01;Ship to 80-C;México D.F.;;10334;Mexico;Avda. Azteca 5678
+10677;3;1;22.09.2015;20.10.2015;26.09.2015;3;4,03;Destination LANNN;México D.F.;;10212;Mexico;Mataderos  4567
+10678;71;7;23.09.2015;21.10.2015;16.10.2015;3;388,98;Ship to 71-A;Boise;ID;10305;USA;7890 Suffolk Ln.
+10679;7;8;23.09.2015;21.10.2015;30.09.2015;3;27,94;Ship to 7-A;Strasbourg;;10329;France;0123, place Kléber
+10680;55;1;24.09.2015;22.10.2015;26.09.2015;1;26,61;Ship to 55-B;Anchorage;AK;10256;USA;8901 Bering St.
+10681;32;3;25.09.2015;23.10.2015;30.09.2015;3;76,13;Destination AVQUS;Eugene;OR;10190;USA;2345 Baker Blvd.
+10682;3;3;25.09.2015;23.10.2015;01.10.2015;2;36,13;Destination RTGIS;México D.F.;;10210;Mexico;Mataderos  2345
+10683;18;2;26.09.2015;24.10.2015;01.10.2015;1;4,4;Destination FVRGC;Nantes;;10150;France;2345, rue des Cinquante Otages
+10684;56;3;26.09.2015;24.10.2015;30.09.2015;1;145,63;Ship to 56-B;Köln;;10259;Germany;Mehrheimerstr. 1234
+10685;31;4;29.09.2015;13.10.2015;03.10.2015;2;33,75;Destination VNIAG;Campinas;SP;10187;Brazil;Av. Brasil, 9012
+10686;59;2;30.09.2015;28.10.2015;08.10.2015;1;96,5;Ship to 59-B;Salzburg;;10265;Austria;Geislweg 7890
+10687;37;9;30.09.2015;28.10.2015;30.10.2015;2;296,43;Destination KPVYJ;Cork;Co. Cork;10203;Ireland;5678 Johnstown Road
+10688;83;4;01.10.2015;15.10.2015;07.10.2015;2;299,09;Ship to 83-A;Århus;;10339;Denmark;Smagsloget 0123
+10689;5;1;01.10.2015;29.10.2015;07.10.2015;2;13,42;Ship to 5-B;Luleå;;10268;Sweden;Berguvsvägen  0123
+10690;34;1;02.10.2015;30.10.2015;03.10.2015;1;15,8;Destination JPAIY;Rio de Janeiro;RJ;10196;Brazil;Rua do Paço, 8901
+10691;63;2;03.10.2015;14.11.2015;22.10.2015;2;810,05;Ship to 63-B;Cunewalde;;10280;Germany;Taucherstraße 2345
+10692;1;4;03.10.2015;31.10.2015;13.10.2015;2;61,02;Destination RSVRP;Berlin;;10156;Germany;Obere Str. 8901
+10693;89;3;06.10.2015;20.10.2015;10.10.2015;3;139,34;Ship to 89-C;Seattle;WA;10358;USA;9012 - 12th Ave. S.
+10694;63;8;06.10.2015;03.11.2015;09.10.2015;3;398,36;Ship to 63-A;Cunewalde;;10279;Germany;Taucherstraße 1234
+10695;90;7;07.10.2015;18.11.2015;14.10.2015;1;16,72;Ship to 90-C;Helsinki;;10363;Finland;Keskuskatu 4567
+10696;89;8;08.10.2015;19.11.2015;14.10.2015;3;102,55;Ship to 89-A;Seattle;WA;10356;USA;7890 - 12th Ave. S.
+10697;47;3;08.10.2015;05.11.2015;14.10.2015;1;45,52;Ship to 47-B;I. de Margarita;Nueva Esparta;10231;Venezuela;Ave. 5 de Mayo Porlamar 4567
+10698;20;4;09.10.2015;06.11.2015;17.10.2015;1;272,47;Destination RVDMF;Graz;;10157;Austria;Kirchgasse 9012
+10699;52;3;09.10.2015;06.11.2015;13.10.2015;3;0,58;Ship to 52-B;Leipzig;;10248;Germany;Heerstr. 0123
+10700;71;3;10.10.2015;07.11.2015;16.10.2015;1;65,1;Ship to 71-C;Boise;ID;10307;USA;9012 Suffolk Ln.
+10701;37;6;13.10.2015;27.10.2015;15.10.2015;3;220,31;Destination KPVYJ;Cork;Co. Cork;10203;Ireland;5678 Johnstown Road
+10702;1;4;13.10.2015;24.11.2015;21.10.2015;1;23,94;Destination ZELZJ;Berlin;;10155;Germany;Obere Str. 7890
+10703;24;6;14.10.2015;11.11.2015;20.10.2015;2;152,3;Destination KBSBN;Bräcke;;10167;Sweden;Åkergatan 9012
+10704;62;6;14.10.2015;11.11.2015;07.11.2015;1;4,78;Ship to 62-C;Sao Paulo;SP;10278;Brazil;Alameda dos Canàrios, 0123
+10705;35;9;15.10.2015;12.11.2015;18.11.2015;2;3,52;Destination JYDLM;San Cristóbal;Táchira;10199;Venezuela;Carrera1234 con Ave. Carlos Soublette #8-35
+10706;55;8;16.10.2015;13.11.2015;21.10.2015;3;135,63;Ship to 55-C;Anchorage;AK;10257;USA;9012 Bering St.
+10707;4;4;16.10.2015;30.10.2015;23.10.2015;3;21,74;Ship to 4-A;Colchester;Essex;10238;UK;Brook Farm Stratford St. Mary 0123
+10708;77;6;17.10.2015;28.11.2015;05.11.2015;2;2,96;Ship to 77-C;Portland;OR;10322;USA;3456 Jefferson Way Suite 2
+10709;31;1;17.10.2015;14.11.2015;20.11.2015;3;210,8;Destination GWPFK;Campinas;SP;10188;Brazil;Av. Brasil, 0123
+10710;27;1;20.10.2015;17.11.2015;23.10.2015;1;4,98;Destination FFLQT;Torino;;10174;Italy;Via Monte Bianco 6789
+10711;71;5;21.10.2015;02.12.2015;29.10.2015;2;52,41;Ship to 71-A;Boise;ID;10305;USA;7890 Suffolk Ln.
+10712;37;3;21.10.2015;18.11.2015;31.10.2015;1;89,93;Destination KPVYJ;Cork;Co. Cork;10203;Ireland;5678 Johnstown Road
+10713;71;1;22.10.2015;19.11.2015;24.10.2015;1;167,05;Ship to 71-C;Boise;ID;10307;USA;9012 Suffolk Ln.
+10714;71;5;22.10.2015;19.11.2015;27.10.2015;3;24,49;Ship to 71-A;Boise;ID;10305;USA;7890 Suffolk Ln.
+10715;9;3;23.10.2015;06.11.2015;29.10.2015;1;63,2;Ship to 9-B;Marseille;;10368;France;9012, rue des Bouchers
+10716;64;4;24.10.2015;21.11.2015;27.10.2015;2;22,57;Ship to 64-B;Buenos Aires;;10283;Argentina;Av. del Libertador 5678
+10717;25;1;24.10.2015;21.11.2015;29.10.2015;2;59,25;Destination QOCBL;München;;10169;Germany;Berliner Platz 1234
+10718;39;1;27.10.2015;24.11.2015;29.10.2015;3;170,88;Destination DKMQA;Brandenburg;;10208;Germany;Maubelstr. 0123
+10719;45;8;27.10.2015;24.11.2015;05.11.2015;2;51,44;Ship to 45-A;San Francisco;CA;10225;USA;8901 Polk St. Suite 5
+10720;61;8;28.10.2015;11.11.2015;05.11.2015;2;9,53;Ship to 61-C;Rio de Janeiro;RJ;10275;Brazil;Rua da Panificadora, 7890
+10721;63;5;29.10.2015;26.11.2015;31.10.2015;3;48,92;Ship to 63-A;Cunewalde;;10279;Germany;Taucherstraße 1234
+10722;71;8;29.10.2015;10.12.2015;04.11.2015;1;74,58;Ship to 71-A;Boise;ID;10305;USA;7890 Suffolk Ln.
+10723;89;3;30.10.2015;27.11.2015;25.11.2015;1;21,72;Ship to 89-C;Seattle;WA;10358;USA;9012 - 12th Ave. S.
+10724;51;8;30.10.2015;11.12.2015;05.11.2015;2;57,75;Ship to 51-A;Montréal;Québec;10244;Canada;6789 rue St. Laurent
+10725;21;4;31.10.2015;28.11.2015;05.11.2015;3;10,83;Destination KKELL;Sao Paulo;SP;10162;Brazil;Rua Orós, 4567
+10726;19;4;03.11.2015;17.11.2015;05.12.2015;1;16,56;Destination FRCGJ;London;;10153;UK;5678 King George
+10727;66;2;03.11.2015;01.12.2015;05.12.2015;1;89,9;Ship to 66-A;Reggio Emilia;;10288;Italy;Strada Provinciale 0123
+10728;62;4;04.11.2015;02.12.2015;11.11.2015;2;58,33;Ship to 62-A;Sao Paulo;SP;10276;Brazil;Alameda dos Canàrios, 8901
+10729;47;8;04.11.2015;16.12.2015;14.11.2015;3;141,06;Ship to 47-A;I. de Margarita;Nueva Esparta;10230;Venezuela;Ave. 5 de Mayo Porlamar 3456
+10730;9;5;05.11.2015;03.12.2015;14.11.2015;1;20,12;Ship to 9-A;Marseille;;10367;France;8901, rue des Bouchers
+10731;14;7;06.11.2015;04.12.2015;14.11.2015;1;96,65;Destination YUJRD;Bern;;10139;Switzerland;Hauptstr. 1234
+10732;9;3;06.11.2015;04.12.2015;07.11.2015;1;16,97;Ship to 9-A;Marseille;;10367;France;8901, rue des Bouchers
+10733;5;1;07.11.2015;05.12.2015;10.11.2015;3;110,11;Ship to 5-A;Luleå;;10267;Sweden;Berguvsvägen  9012
+10734;31;2;07.11.2015;05.12.2015;12.11.2015;3;1,63;Destination VNIAG;Campinas;SP;10187;Brazil;Av. Brasil, 9012
+10735;45;6;10.11.2015;08.12.2015;21.11.2015;2;45,97;Ship to 45-A;San Francisco;CA;10225;USA;8901 Polk St. Suite 5
+10736;37;9;11.11.2015;09.12.2015;21.11.2015;2;44,1;Destination DGKOU;Cork;Co. Cork;10204;Ireland;6789 Johnstown Road
+10737;85;2;11.11.2015;09.12.2015;18.11.2015;2;7,79;Ship to 85-C;Reims;;10346;France;7890 rue de l'Abbaye
+10738;74;2;12.11.2015;10.12.2015;18.11.2015;1;2,91;Ship to 74-A;Paris;;10312;France;3456, rue Lauriston
+10739;85;3;12.11.2015;10.12.2015;17.11.2015;3;11,08;Ship to 85-C;Reims;;10346;France;7890 rue de l'Abbaye
+10740;89;4;13.11.2015;11.12.2015;25.11.2015;2;81,88;Ship to 89-B;Seattle;WA;10357;USA;8901 - 12th Ave. S.
+10741;4;4;14.11.2015;28.11.2015;18.11.2015;3;10,96;Ship to 4-C;Colchester;Essex;10240;UK;Brook Farm Stratford St. Mary 2345
+10742;10;3;14.11.2015;12.12.2015;18.11.2015;3;243,73;Destination LPHSI;Tsawassen;BC;10131;Canada;3456 Tsawassen Blvd.
+10743;4;1;17.11.2015;15.12.2015;21.11.2015;2;23,72;Ship to 4-C;Colchester;Essex;10240;UK;Brook Farm Stratford St. Mary 2345
+10744;83;6;17.11.2015;15.12.2015;24.11.2015;1;69,19;Ship to 83-A;Århus;;10339;Denmark;Smagsloget 0123
+10745;63;9;18.11.2015;16.12.2015;27.11.2015;1;3,52;Ship to 63-C;Cunewalde;;10281;Germany;Taucherstraße 3456
+10746;14;1;19.11.2015;17.12.2015;21.11.2015;3;31,43;Destination NRTZZ;Bern;;10138;Switzerland;Hauptstr. 0123
+10747;59;6;19.11.2015;17.12.2015;26.11.2015;1;117,33;Ship to 59-B;Salzburg;;10265;Austria;Geislweg 7890
+10748;71;3;20.11.2015;18.12.2015;28.11.2015;1;232,55;Ship to 71-B;Boise;ID;10306;USA;8901 Suffolk Ln.
+10749;38;4;20.11.2015;18.12.2015;19.12.2015;2;61,53;Destination QVTLW;Cowes;Isle of Wight;10205;UK;Garden House Crowther Way 7890
+10750;87;9;21.11.2015;19.12.2015;24.11.2015;1;79,3;Ship to 87-C;Oulu;;10352;Finland;Torikatu 3456
+10751;68;3;24.11.2015;22.12.2015;03.12.2015;3;130,79;Ship to 68-A;Genève;;10294;Switzerland;Starenweg 6789
+10752;53;2;24.11.2015;22.12.2015;28.11.2015;3;1,39;Ship to 53-C;London;;10251;UK;South House 3456 Queensbridge
+10753;27;3;25.11.2015;23.12.2015;27.11.2015;1;7,7;Destination DICGM;Torino;;10175;Italy;Via Monte Bianco 7890
+10754;49;6;25.11.2015;23.12.2015;27.11.2015;3;2,38;Ship to 49-B;Bergamo;;10236;Italy;Via Ludovico il Moro 9012
+10755;9;4;26.11.2015;24.12.2015;28.11.2015;2;16,71;Ship to 9-C;Marseille;;10369;France;0123, rue des Bouchers
+10756;75;8;27.11.2015;25.12.2015;02.12.2015;2;73,21;Ship to 75-C;Lander;WY;10316;USA;P.O. Box 7890
+10757;71;6;27.11.2015;25.12.2015;15.12.2015;1;8,19;Ship to 71-B;Boise;ID;10306;USA;8901 Suffolk Ln.
+10758;68;3;28.11.2015;26.12.2015;04.12.2015;3;138,17;Ship to 68-C;Genève;;10296;Switzerland;Starenweg 8901
+10759;2;3;28.11.2015;26.12.2015;12.12.2015;3;11,99;Destination QOTQA;México D.F.;;10181;Mexico;Avda. de la Constitución 3456
+10760;50;4;01.12.2015;29.12.2015;10.12.2015;1;155,64;Ship to 50-B;Bruxelles;;10242;Belgium;Rue Joseph-Bens 4567
+10761;65;5;02.12.2015;30.12.2015;08.12.2015;2;18,66;Ship to 65-B;Albuquerque;NM;10286;USA;8901 Milton Dr.
+10762;24;3;02.12.2015;30.12.2015;09.12.2015;1;328,74;Destination YCMPK;Bräcke;;10166;Sweden;Åkergatan 8901
+10763;23;3;03.12.2015;31.12.2015;08.12.2015;3;37,35;Destination PXQRR;Lille;;10163;France;5678, chaussée de Tournai
+10764;20;6;03.12.2015;31.12.2015;08.12.2015;3;145,45;Destination CUVPF;Graz;;10159;Austria;Kirchgasse 1234
+10765;63;3;04.12.2015;01.01.2016;09.12.2015;3;42,74;Ship to 63-A;Cunewalde;;10279;Germany;Taucherstraße 1234
+10766;56;4;05.12.2015;02.01.2016;09.12.2015;1;157,55;Ship to 56-C;Köln;;10260;Germany;Mehrheimerstr. 2345
+10767;76;4;05.12.2015;02.01.2016;15.12.2015;3;1,59;Ship to 76-B;Charleroi;;10318;Belgium;Boulevard Tirou, 9012
+10768;4;3;08.12.2015;05.01.2016;15.12.2015;2;146,32;Ship to 4-B;Colchester;Essex;10239;UK;Brook Farm Stratford St. Mary 1234
+10769;83;3;08.12.2015;05.01.2016;12.12.2015;1;65,06;Ship to 83-C;Århus;;10341;Denmark;Smagsloget 2345
+10770;34;8;09.12.2015;06.01.2016;17.12.2015;3;5,32;Destination JPAIY;Rio de Janeiro;RJ;10196;Brazil;Rua do Paço, 8901
+10771;20;9;10.12.2015;07.01.2016;02.01.2016;2;11,19;Destination CUVPF;Graz;;10159;Austria;Kirchgasse 1234
+10772;44;3;10.12.2015;07.01.2016;19.12.2015;2;91,28;Ship to 44-B;Frankfurt a.M.;;10223;Germany;Magazinweg 5678
+10773;20;1;11.12.2015;08.01.2016;16.12.2015;3;96,43;Destination FFXKT;Graz;;10158;Austria;Kirchgasse 0123
+10774;24;4;11.12.2015;25.12.2015;12.12.2015;1;48,2;Destination KBSBN;Bräcke;;10167;Sweden;Åkergatan 9012
+10775;78;7;12.12.2015;09.01.2016;26.12.2015;1;20,25;Ship to 78-A;Butte;MT;10323;USA;4567 Grizzly Peak Rd.
+10776;20;1;15.12.2015;12.01.2016;18.12.2015;3;351,53;Destination RVDMF;Graz;;10157;Austria;Kirchgasse 9012
+10777;31;7;15.12.2015;29.12.2015;21.01.2016;2;3,01;Destination GWPFK;Campinas;SP;10188;Brazil;Av. Brasil, 0123
+10778;5;3;16.12.2015;13.01.2016;24.12.2015;1;6,79;Ship to 5-A;Luleå;;10267;Sweden;Berguvsvägen  9012
+10779;52;3;16.12.2015;13.01.2016;14.01.2016;2;58,13;Ship to 52-A;Leipzig;;10247;Germany;Heerstr. 9012
+10780;46;2;16.12.2015;30.12.2015;25.12.2015;1;42,13;Ship to 46-C;Barquisimeto;Lara;10229;Venezuela;Carrera 2345 con Ave. Bolívar #65-98 Llano Largo
+10781;87;2;17.12.2015;14.01.2016;19.12.2015;3;73,16;Ship to 87-A;Oulu;;10350;Finland;Torikatu 1234
+10782;12;9;17.12.2015;14.01.2016;22.12.2015;3;1,1;Destination CJDJB;Buenos Aires;;10136;Argentina;Cerrito 8901
+10783;34;4;18.12.2015;15.01.2016;19.12.2015;2;124,98;Destination DPCVR;Rio de Janeiro;RJ;10194;Brazil;Rua do Paço, 6789
+10784;49;4;18.12.2015;15.01.2016;22.12.2015;3;70,09;Ship to 49-A;Bergamo;;10235;Italy;Via Ludovico il Moro 8901
+10785;33;1;18.12.2015;15.01.2016;24.12.2015;3;1,51;Destination FQJFJ;Caracas;DF;10192;Venezuela;5ª Ave. Los Palos Grandes 4567
+10786;62;8;19.12.2015;16.01.2016;23.12.2015;1;110,87;Ship to 62-B;Sao Paulo;SP;10277;Brazil;Alameda dos Canàrios, 9012
+10787;41;2;19.12.2015;02.01.2016;26.12.2015;1;249,93;Destination DWJIO;Toulouse;;10217;France;9012 rue Alsace-Lorraine
+10788;63;1;22.12.2015;19.01.2016;19.01.2016;2;42,7;Ship to 63-C;Cunewalde;;10281;Germany;Taucherstraße 3456
+10789;23;1;22.12.2015;19.01.2016;31.12.2015;2;100,6;Destination PXQRR;Lille;;10163;France;5678, chaussée de Tournai
+10790;31;6;22.12.2015;19.01.2016;26.12.2015;1;28,23;Destination XOIGC;Campinas;SP;10186;Brazil;Av. Brasil, 8901
+10791;25;6;23.12.2015;20.01.2016;01.01.2016;2;16,85;Destination QOCBL;München;;10169;Germany;Berliner Platz 1234
+10792;91;1;23.12.2015;20.01.2016;31.12.2015;3;23,79;Ship to 91-C;Warszawa;;10366;Poland;ul. Filtrowa 7890
+10793;4;3;24.12.2015;21.01.2016;08.01.2016;3;4,52;Ship to 4-B;Colchester;Essex;10239;UK;Brook Farm Stratford St. Mary 1234
+10794;61;6;24.12.2015;21.01.2016;02.01.2016;1;21,49;Ship to 61-C;Rio de Janeiro;RJ;10275;Brazil;Rua da Panificadora, 7890
+10795;20;8;24.12.2015;21.01.2016;20.01.2016;2;126,66;Destination FFXKT;Graz;;10158;Austria;Kirchgasse 0123
+10796;35;3;25.12.2015;22.01.2016;14.01.2016;1;26,52;Destination UOUWK;San Cristóbal;Táchira;10197;Venezuela;Carrera 9012 con Ave. Carlos Soublette #8-35
+10797;17;7;25.12.2015;22.01.2016;05.01.2016;2;33,35;Destination AJTHX;Aachen;;10147;Germany;Walserweg 9012
+10798;38;2;26.12.2015;23.01.2016;05.01.2016;1;2,33;Destination AXVHD;Cowes;Isle of Wight;10207;UK;Garden House Crowther Way 9012
+10799;39;9;26.12.2015;06.02.2016;05.01.2016;3;30,76;Destination DKMQA;Brandenburg;;10208;Germany;Maubelstr. 0123
+10800;72;1;26.12.2015;23.01.2016;05.01.2016;3;137,44;Ship to 72-C;London;;10309;UK;1234 Wadhurst Rd.
+10801;8;4;29.12.2015;26.01.2016;31.12.2015;2;97,09;Ship to 8-C;Madrid;;10360;Spain;C/ Araquil, 1234
+10802;73;4;29.12.2015;26.01.2016;02.01.2016;2;257,26;Ship to 73-A;Kobenhavn;;10310;Denmark;Vinbæltet 1234
+10803;88;4;30.12.2015;27.01.2016;06.01.2016;1;55,23;Ship to 88-B;Resende;SP;10354;Brazil;Rua do Mercado, 5678
+10804;72;6;30.12.2015;27.01.2016;07.01.2016;2;27,33;Ship to 72-C;London;;10309;UK;1234 Wadhurst Rd.
+10805;77;2;30.12.2015;27.01.2016;09.01.2016;3;237,34;Ship to 77-A;Portland;OR;10320;USA;1234 Jefferson Way Suite 2
+10806;84;3;31.12.2015;28.01.2016;05.01.2016;2;22,11;Ship to 84-C;Lyon;;10344;France;5678, rue du Commerce
+10807;27;4;31.12.2015;28.01.2016;30.01.2016;1;1,36;Destination XNLFB;Torino;;10173;Italy;Via Monte Bianco 5678
+10808;55;2;01.01.2016;29.01.2016;09.01.2016;3;45,53;Ship to 55-B;Anchorage;AK;10256;USA;8901 Bering St.
+10809;88;7;01.01.2016;29.01.2016;07.01.2016;1;4,87;Ship to 88-C;Resende;SP;10355;Brazil;Rua do Mercado, 6789
+10810;42;2;01.01.2016;29.01.2016;07.01.2016;3;4,33;Ship to 42-A;Vancouver;BC;10219;Canada;1234 Elm St.
+10811;47;8;02.01.2016;30.01.2016;08.01.2016;1;31,22;Ship to 47-B;I. de Margarita;Nueva Esparta;10231;Venezuela;Ave. 5 de Mayo Porlamar 4567
+10812;66;5;02.01.2016;30.01.2016;12.01.2016;1;59,78;Ship to 66-B;Reggio Emilia;;10289;Italy;Strada Provinciale 1234
+10813;67;1;05.01.2016;02.02.2016;09.01.2016;1;47,38;Ship to 67-C;Rio de Janeiro;RJ;10293;Brazil;Av. Copacabana, 5678
+10814;84;3;05.01.2016;02.02.2016;14.01.2016;3;130,94;Ship to 84-B;Lyon;;10343;France;4567, rue du Commerce
+10815;71;2;05.01.2016;02.02.2016;14.01.2016;3;14,62;Ship to 71-A;Boise;ID;10305;USA;7890 Suffolk Ln.
+10816;32;4;06.01.2016;03.02.2016;04.02.2016;2;719,78;Destination AVQUS;Eugene;OR;10190;USA;2345 Baker Blvd.
+10817;39;3;06.01.2016;20.01.2016;13.01.2016;2;306,07;Destination RMBHM;Brandenburg;;10209;Germany;Maubelstr. 1234
+10818;49;7;07.01.2016;04.02.2016;12.01.2016;3;65,48;Ship to 49-B;Bergamo;;10236;Italy;Via Ludovico il Moro 9012
+10819;12;2;07.01.2016;04.02.2016;16.01.2016;3;19,76;Destination QTHBC;Buenos Aires;;10134;Argentina;Cerrito 6789
+10820;65;3;07.01.2016;04.02.2016;13.01.2016;2;37,52;Ship to 65-B;Albuquerque;NM;10286;USA;8901 Milton Dr.
+10821;75;1;08.01.2016;05.02.2016;15.01.2016;1;36,68;Ship to 75-A;Lander;WY;10314;USA;P.O. Box 5678
+10822;82;6;08.01.2016;05.02.2016;16.01.2016;3;7;Ship to 82-B;Kirkland;WA;10338;USA;9012 DaVinci Blvd.
+10823;46;5;09.01.2016;06.02.2016;13.01.2016;2;163,97;Ship to 46-A;Barquisimeto;Lara;10227;Venezuela;Carrera 0123 con Ave. Bolívar #65-98 Llano Largo
+10824;24;8;09.01.2016;06.02.2016;30.01.2016;1;1,23;Destination NCKKO;Bräcke;;10165;Sweden;Åkergatan 7890
+10825;17;1;09.01.2016;06.02.2016;14.01.2016;1;79,25;Destination BJCXA;Aachen;;10145;Germany;Walserweg 7890
+10826;7;6;12.01.2016;09.02.2016;06.02.2016;1;7,09;Ship to 7-C;Strasbourg;;10331;France;2345, place Kléber
+10827;9;1;12.01.2016;26.01.2016;06.02.2016;2;63,54;Ship to 9-B;Marseille;;10368;France;9012, rue des Bouchers
+10828;64;9;13.01.2016;27.01.2016;04.02.2016;1;90,85;Ship to 64-B;Buenos Aires;;10283;Argentina;Av. del Libertador 5678
+10829;38;9;13.01.2016;10.02.2016;23.01.2016;1;154,72;Destination QVTLW;Cowes;Isle of Wight;10205;UK;Garden House Crowther Way 7890
+10830;81;4;13.01.2016;24.02.2016;21.01.2016;2;81,83;Ship to 81-C;Sao Paulo;SP;10336;Brazil;Av. Inês de Castro, 7890
+10831;70;3;14.01.2016;11.02.2016;23.01.2016;2;72,19;Ship to 70-B;Stavern;;10303;Norway;Erling Skakkes gate 5678
+10832;41;2;14.01.2016;11.02.2016;19.01.2016;2;43,26;Ship to 41-C;Toulouse;;10218;France;0123 rue Alsace-Lorraine
+10833;56;6;15.01.2016;12.02.2016;23.01.2016;2;71,49;Ship to 56-B;Köln;;10259;Germany;Mehrheimerstr. 1234
+10834;81;1;15.01.2016;12.02.2016;19.01.2016;3;29,78;Ship to 81-A;Sao Paulo;SP;10335;Brazil;Av. Inês de Castro, 6789
+10835;1;1;15.01.2016;12.02.2016;21.01.2016;3;69,53;Destination LOUIE;Berlin;;10154;Germany;Obere Str. 6789
+10836;20;7;16.01.2016;13.02.2016;21.01.2016;1;411,88;Destination CUVPF;Graz;;10159;Austria;Kirchgasse 1234
+10837;5;9;16.01.2016;13.02.2016;23.01.2016;3;13,32;Ship to 5-A;Luleå;;10267;Sweden;Berguvsvägen  9012
+10838;47;3;19.01.2016;16.02.2016;23.01.2016;3;59,28;Ship to 47-A;I. de Margarita;Nueva Esparta;10230;Venezuela;Ave. 5 de Mayo Porlamar 3456
+10839;81;3;19.01.2016;16.02.2016;22.01.2016;3;35,43;Ship to 81-C;Sao Paulo;SP;10336;Brazil;Av. Inês de Castro, 7890
+10840;47;4;19.01.2016;02.03.2016;16.02.2016;2;2,71;Ship to 47-A;I. de Margarita;Nueva Esparta;10230;Venezuela;Ave. 5 de Mayo Porlamar 3456
+10841;76;5;20.01.2016;17.02.2016;29.01.2016;2;424,3;Ship to 76-B;Charleroi;;10318;Belgium;Boulevard Tirou, 9012
+10842;80;1;20.01.2016;17.02.2016;29.01.2016;3;54,42;Ship to 80-A;México D.F.;;10332;Mexico;Avda. Azteca 3456
+10843;84;4;21.01.2016;18.02.2016;26.01.2016;2;9,26;Ship to 84-C;Lyon;;10344;France;5678, rue du Commerce
+10844;59;8;21.01.2016;18.02.2016;26.01.2016;2;25,22;Ship to 59-A;Salzburg;;10264;Austria;Geislweg 6789
+10845;63;8;21.01.2016;04.02.2016;30.01.2016;1;212,98;Ship to 63-A;Cunewalde;;10279;Germany;Taucherstraße 1234
+10846;76;2;22.01.2016;05.03.2016;23.01.2016;3;56,46;Ship to 76-C;Charleroi;;10319;Belgium;Boulevard Tirou, 0123
+10847;71;4;22.01.2016;05.02.2016;10.02.2016;3;487,57;Ship to 71-A;Boise;ID;10305;USA;7890 Suffolk Ln.
+10848;16;7;23.01.2016;20.02.2016;29.01.2016;2;38,24;Destination QKQNB;London;;10143;UK;Berkeley Gardens 5678  Brewery
+10849;39;9;23.01.2016;20.02.2016;30.01.2016;2;0,56;Destination DKMQA;Brandenburg;;10208;Germany;Maubelstr. 0123
+10850;84;1;23.01.2016;06.03.2016;30.01.2016;1;49,19;Ship to 84-C;Lyon;;10344;France;5678, rue du Commerce
+10851;67;5;26.01.2016;23.02.2016;02.02.2016;1;160,55;Ship to 67-C;Rio de Janeiro;RJ;10293;Brazil;Av. Copacabana, 5678
+10852;65;8;26.01.2016;09.02.2016;30.01.2016;1;174,05;Ship to 65-A;Albuquerque;NM;10285;USA;7890 Milton Dr.
+10853;6;9;27.01.2016;24.02.2016;03.02.2016;2;53,83;Ship to 6-B;Mannheim;;10301;Germany;Forsterstr. 3456
+10854;20;3;27.01.2016;24.02.2016;05.02.2016;2;100,22;Destination CUVPF;Graz;;10159;Austria;Kirchgasse 1234
+10855;55;3;27.01.2016;24.02.2016;04.02.2016;1;170,97;Ship to 55-A;Anchorage;AK;10255;USA;7890 Bering St.
+10856;3;3;28.01.2016;25.02.2016;10.02.2016;2;58,43;Destination FQFLS;México D.F.;;10211;Mexico;Mataderos  3456
+10857;5;8;28.01.2016;25.02.2016;06.02.2016;2;188,85;Ship to 5-B;Luleå;;10268;Sweden;Berguvsvägen  0123
+10858;40;2;29.01.2016;26.02.2016;03.02.2016;1;52,51;Destination POAEW;Versailles;;10215;France;7890, avenue de l'Europe
+10859;25;1;29.01.2016;26.02.2016;02.02.2016;2;76,1;Destination QOCBL;München;;10169;Germany;Berliner Platz 1234
+10860;26;3;29.01.2016;26.02.2016;04.02.2016;3;19,26;Destination XBVKN;Nantes;;10171;France;3456, rue Royale
+10861;89;4;30.01.2016;27.02.2016;17.02.2016;2;14,93;Ship to 89-C;Seattle;WA;10358;USA;9012 - 12th Ave. S.
+10862;44;8;30.01.2016;13.03.2016;02.02.2016;2;53,23;Ship to 44-C;Frankfurt a.M.;;10224;Germany;Magazinweg 6789
+10863;35;4;02.02.2016;02.03.2016;17.02.2016;2;30,26;Destination UOUWK;San Cristóbal;Táchira;10197;Venezuela;Carrera 9012 con Ave. Carlos Soublette #8-35
+10864;4;4;02.02.2016;02.03.2016;09.02.2016;2;3,04;Ship to 4-C;Colchester;Essex;10240;UK;Brook Farm Stratford St. Mary 2345
+10865;63;2;02.02.2016;16.02.2016;12.02.2016;1;348,14;Ship to 63-A;Cunewalde;;10279;Germany;Taucherstraße 1234
+10866;5;5;03.02.2016;03.03.2016;12.02.2016;1;109,11;Ship to 5-B;Luleå;;10268;Sweden;Berguvsvägen  0123
+10867;48;6;03.02.2016;17.03.2016;11.02.2016;1;1,93;Ship to 48-B;Portland;OR;10233;USA;6789 Chiaroscuro Rd.
+10868;62;7;04.02.2016;04.03.2016;23.02.2016;2;191,27;Ship to 62-C;Sao Paulo;SP;10278;Brazil;Alameda dos Canàrios, 0123
+10869;72;5;04.02.2016;04.03.2016;09.02.2016;1;143,28;Ship to 72-A;London;;10308;UK;0123 Wadhurst Rd.
+10870;91;5;04.02.2016;04.03.2016;13.02.2016;3;12,04;Ship to 91-A;Warszawa;;10364;Poland;ul. Filtrowa 5678
+10871;9;9;05.02.2016;05.03.2016;10.02.2016;2;112,27;Ship to 9-B;Marseille;;10368;France;9012, rue des Bouchers
+10872;30;5;05.02.2016;05.03.2016;09.02.2016;2;175,32;Destination GGQIR;Sevilla;;10184;Spain;C/ Romero, 6789
+10873;90;4;06.02.2016;06.03.2016;09.02.2016;1;0,82;Ship to 90-B;Helsinki;;10362;Finland;Keskuskatu 3456
+10874;30;5;06.02.2016;06.03.2016;11.02.2016;2;19,58;Destination IIYDD;Sevilla;;10183;Spain;C/ Romero, 5678
+10875;5;4;06.02.2016;06.03.2016;03.03.2016;2;32,37;Ship to 5-A;Luleå;;10267;Sweden;Berguvsvägen  9012
+10876;9;7;09.02.2016;09.03.2016;12.02.2016;3;60,42;Ship to 9-A;Marseille;;10367;France;8901, rue des Bouchers
+10877;67;1;09.02.2016;09.03.2016;19.02.2016;1;38,06;Ship to 67-B;Rio de Janeiro;RJ;10292;Brazil;Av. Copacabana, 4567
+10878;63;4;10.02.2016;10.03.2016;12.02.2016;1;46,69;Ship to 63-B;Cunewalde;;10280;Germany;Taucherstraße 2345
+10879;90;3;10.02.2016;10.03.2016;12.02.2016;3;8,5;Ship to 90-A;Helsinki;;10361;Finland;Keskuskatu 2345
+10880;24;7;10.02.2016;24.03.2016;18.02.2016;1;88,01;Destination KBSBN;Bräcke;;10167;Sweden;Åkergatan 9012
+10881;12;4;11.02.2016;11.03.2016;18.02.2016;1;2,84;Destination IGLOB;Buenos Aires;;10135;Argentina;Cerrito 7890
+10882;71;4;11.02.2016;11.03.2016;20.02.2016;3;23,1;Ship to 71-B;Boise;ID;10306;USA;8901 Suffolk Ln.
+10883;48;8;12.02.2016;12.03.2016;20.02.2016;3;0,53;Ship to 48-C;Portland;OR;10234;USA;7890 Chiaroscuro Rd.
+10884;45;4;12.02.2016;12.03.2016;13.02.2016;2;90,97;Ship to 45-C;San Francisco;CA;10226;USA;9012 Polk St. Suite 5
+10885;76;6;12.02.2016;12.03.2016;18.02.2016;3;5,64;Ship to 76-B;Charleroi;;10318;Belgium;Boulevard Tirou, 9012
+10886;34;1;13.02.2016;13.03.2016;02.03.2016;1;4,99;Destination SCQXA;Rio de Janeiro;RJ;10195;Brazil;Rua do Paço, 7890
+10887;29;8;13.02.2016;13.03.2016;16.02.2016;3;1,25;Destination VPNNG;Barcelona;;10178;Spain;Rambla de Cataluña, 0123
+10888;30;1;16.02.2016;16.03.2016;23.02.2016;2;51,87;Destination IIYDD;Sevilla;;10183;Spain;C/ Romero, 5678
+10889;65;9;16.02.2016;16.03.2016;23.02.2016;3;280,61;Ship to 65-C;Albuquerque;NM;10287;USA;9012 Milton Dr.
+10890;18;7;16.02.2016;16.03.2016;18.02.2016;1;32,76;Destination JNSYI;Nantes;;10149;France;1234, rue des Cinquante Otages
+10891;44;7;17.02.2016;17.03.2016;19.02.2016;2;20,37;Ship to 44-A;Frankfurt a.M.;;10222;Germany;Magazinweg 4567
+10892;50;4;17.02.2016;17.03.2016;19.02.2016;2;120,27;Ship to 50-A;Bruxelles;;10241;Belgium;Rue Joseph-Bens 3456
+10893;39;9;18.02.2016;18.03.2016;20.02.2016;2;77,78;Destination RMBHM;Brandenburg;;10209;Germany;Maubelstr. 1234
+10894;71;1;18.02.2016;18.03.2016;20.02.2016;1;116,13;Ship to 71-A;Boise;ID;10305;USA;7890 Suffolk Ln.
+10895;20;3;18.02.2016;18.03.2016;23.02.2016;1;162,75;Destination CUVPF;Graz;;10159;Austria;Kirchgasse 1234
+10896;50;7;19.02.2016;19.03.2016;27.02.2016;3;32,45;Ship to 50-A;Bruxelles;;10241;Belgium;Rue Joseph-Bens 3456
+10897;37;3;19.02.2016;19.03.2016;25.02.2016;2;603,54;Destination DGKOU;Cork;Co. Cork;10204;Ireland;6789 Johnstown Road
+10898;54;4;20.02.2016;20.03.2016;06.03.2016;2;1,27;Ship to 54-B;Buenos Aires;;10253;Argentina;Ing. Gustavo Moncada 5678 Piso 20-A
+10899;46;5;20.02.2016;20.03.2016;26.02.2016;3;1,21;Ship to 46-C;Barquisimeto;Lara;10229;Venezuela;Carrera 2345 con Ave. Bolívar #65-98 Llano Largo
+10900;88;1;20.02.2016;20.03.2016;04.03.2016;2;1,66;Ship to 88-A;Resende;SP;10353;Brazil;Rua do Mercado, 4567
+10901;35;4;23.02.2016;23.03.2016;26.02.2016;1;62,09;Destination UOUWK;San Cristóbal;Táchira;10197;Venezuela;Carrera 9012 con Ave. Carlos Soublette #8-35
+10902;24;1;23.02.2016;23.03.2016;03.03.2016;1;44,15;Destination NCKKO;Bräcke;;10165;Sweden;Åkergatan 7890
+10903;34;3;24.02.2016;24.03.2016;04.03.2016;3;36,71;Destination DPCVR;Rio de Janeiro;RJ;10194;Brazil;Rua do Paço, 6789
+10904;89;3;24.02.2016;24.03.2016;27.02.2016;3;162,95;Ship to 89-A;Seattle;WA;10356;USA;7890 - 12th Ave. S.
+10905;88;9;24.02.2016;24.03.2016;06.03.2016;2;13,72;Ship to 88-A;Resende;SP;10353;Brazil;Rua do Mercado, 4567
+10906;91;4;25.02.2016;11.03.2016;03.03.2016;3;26,29;Ship to 91-B;Warszawa;;10365;Poland;ul. Filtrowa 6789
+10907;74;6;25.02.2016;25.03.2016;27.02.2016;3;9,19;Ship to 74-B;Paris;;10313;France;4567, rue Lauriston
+10908;66;4;26.02.2016;26.03.2016;06.03.2016;2;32,96;Ship to 66-B;Reggio Emilia;;10289;Italy;Strada Provinciale 1234
+10909;70;1;26.02.2016;26.03.2016;10.03.2016;2;53,05;Ship to 70-C;Stavern;;10304;Norway;Erling Skakkes gate 6789
+10910;90;1;26.02.2016;26.03.2016;04.03.2016;3;38,11;Ship to 90-A;Helsinki;;10361;Finland;Keskuskatu 2345
+10911;30;3;26.02.2016;26.03.2016;05.03.2016;1;38,19;Destination IIYDD;Sevilla;;10183;Spain;C/ Romero, 5678
+10912;37;2;26.02.2016;26.03.2016;18.03.2016;2;580,91;Destination DGKOU;Cork;Co. Cork;10204;Ireland;6789 Johnstown Road
+10913;62;4;26.02.2016;26.03.2016;04.03.2016;1;33,05;Ship to 62-A;Sao Paulo;SP;10276;Brazil;Alameda dos Canàrios, 8901
+10914;62;6;27.02.2016;27.03.2016;02.03.2016;1;21,19;Ship to 62-B;Sao Paulo;SP;10277;Brazil;Alameda dos Canàrios, 9012
+10915;80;2;27.02.2016;27.03.2016;02.03.2016;2;3,51;Ship to 80-C;México D.F.;;10334;Mexico;Avda. Azteca 5678
+10916;64;1;27.02.2016;27.03.2016;09.03.2016;2;63,77;Ship to 64-C;Buenos Aires;;10284;Argentina;Av. del Libertador 6789
+10917;69;4;02.03.2016;30.03.2016;11.03.2016;2;8,29;Ship to 69-C;Madrid;;10299;Spain;Gran Vía, 1234
+10918;10;3;02.03.2016;30.03.2016;11.03.2016;3;48,83;Destination OLSSJ;Tsawassen;BC;10130;Canada;2345 Tsawassen Blvd.
+10919;47;2;02.03.2016;30.03.2016;04.03.2016;2;19,8;Ship to 47-B;I. de Margarita;Nueva Esparta;10231;Venezuela;Ave. 5 de Mayo Porlamar 4567
+10920;4;4;03.03.2016;31.03.2016;09.03.2016;2;29,61;Ship to 4-A;Colchester;Essex;10238;UK;Brook Farm Stratford St. Mary 0123
+10921;83;1;03.03.2016;14.04.2016;09.03.2016;1;176,48;Ship to 83-A;Århus;;10339;Denmark;Smagsloget 0123
+10922;34;5;03.03.2016;31.03.2016;05.03.2016;3;62,74;Destination DPCVR;Rio de Janeiro;RJ;10194;Brazil;Rua do Paço, 6789
+10923;41;7;03.03.2016;14.04.2016;13.03.2016;3;68,26;Destination OLJND;Toulouse;;10216;France;8901 rue Alsace-Lorraine
+10924;5;3;04.03.2016;01.04.2016;08.04.2016;2;151,52;Ship to 5-A;Luleå;;10267;Sweden;Berguvsvägen  9012
+10925;34;3;04.03.2016;01.04.2016;13.03.2016;1;2,27;Destination JPAIY;Rio de Janeiro;RJ;10196;Brazil;Rua do Paço, 8901
+10926;2;4;04.03.2016;01.04.2016;11.03.2016;3;39,92;Destination RAIGI;México D.F.;;10182;Mexico;Avda. de la Constitución 4567
+10927;40;4;05.03.2016;02.04.2016;08.04.2016;1;19,79;Destination WWJLO;Versailles;;10214;France;6789, avenue de l'Europe
+10928;29;1;05.03.2016;02.04.2016;18.03.2016;1;1,36;Destination WOFLH;Barcelona;;10179;Spain;Rambla de Cataluña, 1234
+10929;25;6;05.03.2016;02.04.2016;12.03.2016;1;33,93;Destination QOCBL;München;;10169;Germany;Berliner Platz 1234
+10930;76;4;06.03.2016;17.04.2016;18.03.2016;3;15,55;Ship to 76-A;Charleroi;;10317;Belgium;Boulevard Tirou, 8901
+10931;68;4;06.03.2016;20.03.2016;19.03.2016;2;13,6;Ship to 68-B;Genève;;10295;Switzerland;Starenweg 7890
+10932;9;8;06.03.2016;03.04.2016;24.03.2016;1;134,64;Ship to 9-B;Marseille;;10368;France;9012, rue des Bouchers
+10933;38;6;06.03.2016;03.04.2016;16.03.2016;3;54,15;Destination QVTLW;Cowes;Isle of Wight;10205;UK;Garden House Crowther Way 7890
+10934;44;3;09.03.2016;06.04.2016;12.03.2016;3;32,01;Ship to 44-C;Frankfurt a.M.;;10224;Germany;Magazinweg 6789
+10935;88;4;09.03.2016;06.04.2016;18.03.2016;3;47,59;Ship to 88-A;Resende;SP;10353;Brazil;Rua do Mercado, 4567
+10936;32;3;09.03.2016;06.04.2016;18.03.2016;2;33,68;Destination AVQUS;Eugene;OR;10190;USA;2345 Baker Blvd.
+10937;12;7;10.03.2016;24.03.2016;13.03.2016;3;31,51;Destination QTHBC;Buenos Aires;;10134;Argentina;Cerrito 6789
+10938;63;3;10.03.2016;07.04.2016;16.03.2016;2;31,89;Ship to 63-C;Cunewalde;;10281;Germany;Taucherstraße 3456
+10939;49;2;10.03.2016;07.04.2016;13.03.2016;2;76,33;Ship to 49-A;Bergamo;;10235;Italy;Via Ludovico il Moro 8901
+10940;9;8;11.03.2016;08.04.2016;23.03.2016;3;19,77;Ship to 9-C;Marseille;;10369;France;0123, rue des Bouchers
+10941;71;7;11.03.2016;08.04.2016;20.03.2016;2;400,81;Ship to 71-A;Boise;ID;10305;USA;7890 Suffolk Ln.
+10942;66;9;11.03.2016;08.04.2016;18.03.2016;3;17,95;Ship to 66-C;Reggio Emilia;;10290;Italy;Strada Provinciale 2345
+10943;11;4;11.03.2016;08.04.2016;19.03.2016;2;2,17;Destination NZASL;London;;10133;UK;Fauntleroy Circus 5678
+10944;10;6;12.03.2016;26.03.2016;13.03.2016;3;52,92;Destination XJIBQ;Tsawassen;BC;10129;Canada;1234 Tsawassen Blvd.
+10945;52;4;12.03.2016;09.04.2016;18.03.2016;1;10,22;Ship to 52-B;Leipzig;;10248;Germany;Heerstr. 0123
+10946;83;1;12.03.2016;09.04.2016;19.03.2016;2;27,2;Ship to 83-B;Århus;;10340;Denmark;Smagsloget 1234
+10947;11;3;13.03.2016;10.04.2016;16.03.2016;2;3,26;Destination NZASL;London;;10133;UK;Fauntleroy Circus 5678
+10948;30;3;13.03.2016;10.04.2016;19.03.2016;3;23,39;Destination GGQIR;Sevilla;;10184;Spain;C/ Romero, 6789
+10949;10;2;13.03.2016;10.04.2016;17.03.2016;3;74,44;Destination OLSSJ;Tsawassen;BC;10130;Canada;2345 Tsawassen Blvd.
+10950;49;1;16.03.2016;13.04.2016;23.03.2016;2;2,5;Ship to 49-B;Bergamo;;10236;Italy;Via Ludovico il Moro 9012
+10951;68;9;16.03.2016;27.04.2016;07.04.2016;2;30,85;Ship to 68-A;Genève;;10294;Switzerland;Starenweg 6789
+10952;1;1;16.03.2016;27.04.2016;24.03.2016;1;40,42;Destination LOUIE;Berlin;;10154;Germany;Obere Str. 6789
+10953;4;9;16.03.2016;30.03.2016;25.03.2016;2;23,72;Ship to 4-B;Colchester;Essex;10239;UK;Brook Farm Stratford St. Mary 1234
+10954;47;5;17.03.2016;28.04.2016;20.03.2016;1;27,91;Ship to 47-B;I. de Margarita;Nueva Esparta;10231;Venezuela;Ave. 5 de Mayo Porlamar 4567
+10955;24;8;17.03.2016;14.04.2016;20.03.2016;2;3,26;Destination YCMPK;Bräcke;;10166;Sweden;Åkergatan 8901
+10956;6;6;17.03.2016;28.04.2016;20.03.2016;2;44,65;Ship to 6-B;Mannheim;;10301;Germany;Forsterstr. 3456
+10957;35;8;18.03.2016;15.04.2016;27.03.2016;3;105,36;Destination UOUWK;San Cristóbal;Táchira;10197;Venezuela;Carrera 9012 con Ave. Carlos Soublette #8-35
+10958;54;7;18.03.2016;15.04.2016;27.03.2016;2;49,56;Ship to 54-C;Buenos Aires;;10254;Argentina;Ing. Gustavo Moncada 6789 Piso 20-A
+10959;31;6;18.03.2016;29.04.2016;23.03.2016;2;4,98;Destination GWPFK;Campinas;SP;10188;Brazil;Av. Brasil, 0123
+10960;35;3;19.03.2016;02.04.2016;08.04.2016;1;2,08;Destination SXYQX;San Cristóbal;Táchira;10198;Venezuela;Carrera 0123 con Ave. Carlos Soublette #8-35
+10961;62;8;19.03.2016;16.04.2016;30.03.2016;1;104,47;Ship to 62-A;Sao Paulo;SP;10276;Brazil;Alameda dos Canàrios, 8901
+10962;63;8;19.03.2016;16.04.2016;23.03.2016;2;275,79;Ship to 63-B;Cunewalde;;10280;Germany;Taucherstraße 2345
+10963;28;9;19.03.2016;16.04.2016;26.03.2016;3;2,7;Destination CIRQO;Lisboa;;10176;Portugal;Jardim das rosas n. 8901
+10964;74;3;20.03.2016;17.04.2016;24.03.2016;2;87,38;Ship to 74-B;Paris;;10313;France;4567, rue Lauriston
+10965;55;6;20.03.2016;17.04.2016;30.03.2016;3;144,38;Ship to 55-B;Anchorage;AK;10256;USA;8901 Bering St.
+10966;14;4;20.03.2016;17.04.2016;08.04.2016;1;27,19;Destination NRTZZ;Bern;;10138;Switzerland;Hauptstr. 0123
+10967;79;2;23.03.2016;20.04.2016;02.04.2016;2;62,22;Ship to 79-B;Münster;;10327;Germany;Luisenstr. 8901
+10968;20;1;23.03.2016;20.04.2016;01.04.2016;3;74,6;Destination CUVPF;Graz;;10159;Austria;Kirchgasse 1234
+10969;15;1;23.03.2016;20.04.2016;30.03.2016;2;0,21;Destination EVHYA;Sao Paulo;SP;10141;Brazil;Av. dos Lusíadas, 3456
+10970;8;9;24.03.2016;07.04.2016;24.04.2016;1;16,16;Ship to 8-C;Madrid;;10360;Spain;C/ Araquil, 1234
+10971;26;2;24.03.2016;21.04.2016;02.04.2016;2;121,82;Destination XBVKN;Nantes;;10171;France;3456, rue Royale
+10972;40;4;24.03.2016;21.04.2016;26.03.2016;2;0,02;Destination MVTWX;Versailles;;10213;France;5678, avenue de l'Europe
+10973;40;6;24.03.2016;21.04.2016;27.03.2016;2;15,17;Destination WWJLO;Versailles;;10214;France;6789, avenue de l'Europe
+10974;75;3;25.03.2016;08.04.2016;03.04.2016;3;12,96;Ship to 75-B;Lander;WY;10315;USA;P.O. Box 6789
+10975;10;1;25.03.2016;22.04.2016;27.03.2016;3;32,27;Destination OLSSJ;Tsawassen;BC;10130;Canada;2345 Tsawassen Blvd.
+10976;35;1;25.03.2016;06.05.2016;03.04.2016;1;37,97;Destination SXYQX;San Cristóbal;Táchira;10198;Venezuela;Carrera 0123 con Ave. Carlos Soublette #8-35
+10977;24;8;26.03.2016;23.04.2016;10.04.2016;3;208,5;Destination NCKKO;Bräcke;;10165;Sweden;Åkergatan 7890
+10978;50;9;26.03.2016;23.04.2016;23.04.2016;2;32,82;Ship to 50-A;Bruxelles;;10241;Belgium;Rue Joseph-Bens 3456
+10979;20;8;26.03.2016;23.04.2016;31.03.2016;2;353,07;Destination CUVPF;Graz;;10159;Austria;Kirchgasse 1234
+10980;24;4;27.03.2016;08.05.2016;17.04.2016;1;1,26;Destination YCMPK;Bräcke;;10166;Sweden;Åkergatan 8901
+10981;34;1;27.03.2016;24.04.2016;02.04.2016;2;193,37;Destination JPAIY;Rio de Janeiro;RJ;10196;Brazil;Rua do Paço, 8901
+10982;10;2;27.03.2016;24.04.2016;08.04.2016;1;14,01;Destination XJIBQ;Tsawassen;BC;10129;Canada;1234 Tsawassen Blvd.
+10983;71;2;27.03.2016;24.04.2016;06.04.2016;2;657,54;Ship to 71-B;Boise;ID;10306;USA;8901 Suffolk Ln.
+10984;71;1;30.03.2016;27.04.2016;03.04.2016;3;211,22;Ship to 71-B;Boise;ID;10306;USA;8901 Suffolk Ln.
+10985;37;2;30.03.2016;27.04.2016;02.04.2016;1;91,51;Destination ATSOA;Cork;Co. Cork;10202;Ireland;4567 Johnstown Road
+10986;54;8;30.03.2016;27.04.2016;21.04.2016;2;217,86;Ship to 54-A;Buenos Aires;;10252;Argentina;Ing. Gustavo Moncada 4567 Piso 20-A
+10987;19;8;31.03.2016;28.04.2016;06.04.2016;1;185,48;Destination FRCGJ;London;;10153;UK;5678 King George
+10988;65;3;31.03.2016;28.04.2016;10.04.2016;2;61,14;Ship to 65-A;Albuquerque;NM;10285;USA;7890 Milton Dr.
+10989;61;2;31.03.2016;28.04.2016;02.04.2016;1;34,76;Ship to 61-A;Rio de Janeiro;RJ;10273;Brazil;Rua da Panificadora, 5678
+10990;20;2;01.04.2016;13.05.2016;07.04.2016;3;117,61;Destination RVDMF;Graz;;10157;Austria;Kirchgasse 9012
+10991;63;1;01.04.2016;29.04.2016;07.04.2016;1;38,51;Ship to 63-A;Cunewalde;;10279;Germany;Taucherstraße 1234
+10992;77;1;01.04.2016;29.04.2016;03.04.2016;3;4,27;Ship to 77-C;Portland;OR;10322;USA;3456 Jefferson Way Suite 2
+10993;24;7;01.04.2016;29.04.2016;10.04.2016;3;8,81;Destination NCKKO;Bräcke;;10165;Sweden;Åkergatan 7890
+10994;83;2;02.04.2016;16.04.2016;09.04.2016;3;65,53;Ship to 83-C;Århus;;10341;Denmark;Smagsloget 2345
+10995;58;1;02.04.2016;30.04.2016;06.04.2016;3;46;Ship to 58-B;México D.F.;;10262;Mexico;Calle Dr. Jorge Cash 4567
+10996;63;4;02.04.2016;30.04.2016;10.04.2016;2;1,12;Ship to 63-C;Cunewalde;;10281;Germany;Taucherstraße 3456
+10997;46;8;03.04.2016;15.05.2016;13.04.2016;2;73,91;Ship to 46-A;Barquisimeto;Lara;10227;Venezuela;Carrera 0123 con Ave. Bolívar #65-98 Llano Largo
+10998;91;8;03.04.2016;17.04.2016;17.04.2016;2;20,31;Ship to 91-A;Warszawa;;10364;Poland;ul. Filtrowa 5678
+10999;56;6;03.04.2016;01.05.2016;10.04.2016;2;96,35;Ship to 56-B;Köln;;10259;Germany;Mehrheimerstr. 1234
+11000;65;2;06.04.2016;04.05.2016;14.04.2016;3;55,12;Ship to 65-A;Albuquerque;NM;10285;USA;7890 Milton Dr.
+11001;24;2;06.04.2016;04.05.2016;14.04.2016;2;197,3;Destination YCMPK;Bräcke;;10166;Sweden;Åkergatan 8901
+11002;71;4;06.04.2016;04.05.2016;16.04.2016;1;141,16;Ship to 71-A;Boise;ID;10305;USA;7890 Suffolk Ln.
+11003;78;3;06.04.2016;04.05.2016;08.04.2016;3;14,91;Ship to 78-B;Butte;MT;10324;USA;5678 Grizzly Peak Rd.
+11004;50;3;07.04.2016;05.05.2016;20.04.2016;1;44,84;Ship to 50-C;Bruxelles;;10243;Belgium;Rue Joseph-Bens 5678
+11005;90;2;07.04.2016;05.05.2016;10.04.2016;1;0,75;Ship to 90-A;Helsinki;;10361;Finland;Keskuskatu 2345
+11006;32;3;07.04.2016;05.05.2016;15.04.2016;2;25,19;Destination LLUXZ;Eugene;OR;10189;USA;1234 Baker Blvd.
+11007;60;8;08.04.2016;06.05.2016;13.04.2016;2;202,24;Ship to 60-C;Lisboa;;10272;Portugal;Estrada da saúde n. 4567
+11008;20;7;08.04.2016;06.05.2016;;3;79,46;Destination CUVPF;Graz;;10159;Austria;Kirchgasse 1234
+11009;30;2;08.04.2016;06.05.2016;10.04.2016;1;59,11;Destination WVLDH;Sevilla;;10185;Spain;C/ Romero, 7890
+11010;66;2;09.04.2016;07.05.2016;21.04.2016;2;28,71;Ship to 66-A;Reggio Emilia;;10288;Italy;Strada Provinciale 0123
+11011;1;3;09.04.2016;07.05.2016;13.04.2016;1;1,21;Destination LOUIE;Berlin;;10154;Germany;Obere Str. 6789
+11012;25;1;09.04.2016;23.04.2016;17.04.2016;3;242,95;Destination WEGWI;München;;10170;Germany;Berliner Platz 2345
+11013;69;2;09.04.2016;07.05.2016;10.04.2016;1;32,99;Ship to 69-A;Madrid;;10297;Spain;Gran Vía, 9012
+11014;47;2;10.04.2016;08.05.2016;15.04.2016;3;23,6;Ship to 47-A;I. de Margarita;Nueva Esparta;10230;Venezuela;Ave. 5 de Mayo Porlamar 3456
+11015;70;2;10.04.2016;24.04.2016;20.04.2016;2;4,62;Ship to 70-C;Stavern;;10304;Norway;Erling Skakkes gate 6789
+11016;4;9;10.04.2016;08.05.2016;13.04.2016;2;33,8;Ship to 4-A;Colchester;Essex;10238;UK;Brook Farm Stratford St. Mary 0123
+11017;20;9;13.04.2016;11.05.2016;20.04.2016;2;754,26;Destination CUVPF;Graz;;10159;Austria;Kirchgasse 1234
+11018;48;4;13.04.2016;11.05.2016;16.04.2016;2;11,65;Ship to 48-B;Portland;OR;10233;USA;6789 Chiaroscuro Rd.
+11019;64;6;13.04.2016;11.05.2016;;3;3,17;Ship to 64-B;Buenos Aires;;10283;Argentina;Av. del Libertador 5678
+11020;56;2;14.04.2016;12.05.2016;16.04.2016;2;43,3;Ship to 56-B;Köln;;10259;Germany;Mehrheimerstr. 1234
+11021;63;3;14.04.2016;12.05.2016;21.04.2016;1;297,18;Ship to 63-B;Cunewalde;;10280;Germany;Taucherstraße 2345
+11022;34;9;14.04.2016;12.05.2016;04.05.2016;2;6,27;Destination SCQXA;Rio de Janeiro;RJ;10195;Brazil;Rua do Paço, 7890
+11023;11;1;14.04.2016;28.04.2016;24.04.2016;2;123,83;Destination NZASL;London;;10133;UK;Fauntleroy Circus 5678
+11024;19;4;15.04.2016;13.05.2016;20.04.2016;1;74,36;Destination BBMRT;London;;10152;UK;4567 King George
+11025;87;6;15.04.2016;13.05.2016;24.04.2016;3;29,17;Ship to 87-C;Oulu;;10352;Finland;Torikatu 3456
+11026;27;4;15.04.2016;13.05.2016;28.04.2016;1;47,09;Destination DICGM;Torino;;10175;Italy;Via Monte Bianco 7890
+11027;10;1;16.04.2016;14.05.2016;20.04.2016;1;52,52;Destination XJIBQ;Tsawassen;BC;10129;Canada;1234 Tsawassen Blvd.
+11028;39;2;16.04.2016;14.05.2016;22.04.2016;1;29,59;Destination DKMQA;Brandenburg;;10208;Germany;Maubelstr. 0123
+11029;14;4;16.04.2016;14.05.2016;27.04.2016;1;47,84;Destination YUJRD;Bern;;10139;Switzerland;Hauptstr. 1234
+11030;71;7;17.04.2016;15.05.2016;27.04.2016;2;830,75;Ship to 71-C;Boise;ID;10307;USA;9012 Suffolk Ln.
+11031;71;6;17.04.2016;15.05.2016;24.04.2016;2;227,22;Ship to 71-C;Boise;ID;10307;USA;9012 Suffolk Ln.
+11032;89;2;17.04.2016;15.05.2016;23.04.2016;3;606,19;Ship to 89-B;Seattle;WA;10357;USA;8901 - 12th Ave. S.
+11033;68;7;17.04.2016;15.05.2016;23.04.2016;3;84,74;Ship to 68-A;Genève;;10294;Switzerland;Starenweg 6789
+11034;55;8;20.04.2016;01.06.2016;27.04.2016;1;40,32;Ship to 55-B;Anchorage;AK;10256;USA;8901 Bering St.
+11035;76;2;20.04.2016;18.05.2016;24.04.2016;2;0,17;Ship to 76-B;Charleroi;;10318;Belgium;Boulevard Tirou, 9012
+11036;17;8;20.04.2016;18.05.2016;22.04.2016;3;149,47;Destination YPUYI;Aachen;;10146;Germany;Walserweg 8901
+11037;30;7;21.04.2016;19.05.2016;27.04.2016;1;3,2;Destination GGQIR;Sevilla;;10184;Spain;C/ Romero, 6789
+11038;76;1;21.04.2016;19.05.2016;30.04.2016;2;29,59;Ship to 76-A;Charleroi;;10317;Belgium;Boulevard Tirou, 8901
+11039;47;1;21.04.2016;19.05.2016;;2;65;Ship to 47-C;I. de Margarita;Nueva Esparta;10232;Venezuela;Ave. 5 de Mayo Porlamar 5678
+11040;32;4;22.04.2016;20.05.2016;;3;18,84;Destination VYOBK;Eugene;OR;10191;USA;3456 Baker Blvd.
+11041;14;3;22.04.2016;20.05.2016;28.04.2016;2;48,22;Destination YUJRD;Bern;;10139;Switzerland;Hauptstr. 1234
+11042;15;2;22.04.2016;06.05.2016;01.05.2016;1;29,99;Destination EVHYA;Sao Paulo;SP;10141;Brazil;Av. dos Lusíadas, 3456
+11043;74;5;22.04.2016;20.05.2016;29.04.2016;2;8,8;Ship to 74-B;Paris;;10313;France;4567, rue Lauriston
+11044;91;4;23.04.2016;21.05.2016;01.05.2016;1;8,72;Ship to 91-B;Warszawa;;10365;Poland;ul. Filtrowa 6789
+11045;10;6;23.04.2016;21.05.2016;;2;70,58;Destination LPHSI;Tsawassen;BC;10131;Canada;3456 Tsawassen Blvd.
+11046;86;8;23.04.2016;21.05.2016;24.04.2016;2;71,64;Ship to 86-C;Stuttgart;;10349;Germany;Adenauerallee 0123
+11047;19;7;24.04.2016;22.05.2016;01.05.2016;3;46,62;Destination FRCGJ;London;;10153;UK;5678 King George
+11048;10;7;24.04.2016;22.05.2016;30.04.2016;3;24,12;Destination XJIBQ;Tsawassen;BC;10129;Canada;1234 Tsawassen Blvd.
+11049;31;3;24.04.2016;22.05.2016;04.05.2016;1;8,34;Destination XOIGC;Campinas;SP;10186;Brazil;Av. Brasil, 8901
+11050;24;8;27.04.2016;25.05.2016;05.05.2016;2;59,41;Destination YCMPK;Bräcke;;10166;Sweden;Åkergatan 8901
+11051;41;7;27.04.2016;25.05.2016;;3;2,79;Destination OLJND;Toulouse;;10216;France;8901 rue Alsace-Lorraine
+11052;34;3;27.04.2016;25.05.2016;01.05.2016;1;67,26;Destination DPCVR;Rio de Janeiro;RJ;10194;Brazil;Rua do Paço, 6789
+11053;59;2;27.04.2016;25.05.2016;29.04.2016;2;53,05;Ship to 59-A;Salzburg;;10264;Austria;Geislweg 6789
+11054;12;8;28.04.2016;26.05.2016;;1;0,33;Destination QTHBC;Buenos Aires;;10134;Argentina;Cerrito 6789
+11055;35;7;28.04.2016;26.05.2016;05.05.2016;2;120,92;Destination JYDLM;San Cristóbal;Táchira;10199;Venezuela;Carrera1234 con Ave. Carlos Soublette #8-35
+11056;19;8;28.04.2016;12.05.2016;01.05.2016;2;278,96;Destination QTKCU;London;;10151;UK;3456 King George
+11057;53;3;29.04.2016;27.05.2016;01.05.2016;3;4,13;Ship to 53-C;London;;10251;UK;South House 3456 Queensbridge
+11058;6;9;29.04.2016;27.05.2016;;3;31,14;Ship to 6-A;Mannheim;;10300;Germany;Forsterstr. 2345
+11059;67;2;29.04.2016;10.06.2016;;2;85,8;Ship to 67-A;Rio de Janeiro;RJ;10291;Brazil;Av. Copacabana, 3456
+11060;27;2;30.04.2016;28.05.2016;04.05.2016;2;10,98;Destination DICGM;Torino;;10175;Italy;Via Monte Bianco 7890
+11061;32;4;30.04.2016;11.06.2016;;3;14,01;Destination VYOBK;Eugene;OR;10191;USA;3456 Baker Blvd.
+11062;66;4;30.04.2016;28.05.2016;;2;29,93;Ship to 66-B;Reggio Emilia;;10289;Italy;Strada Provinciale 1234
+11063;37;3;30.04.2016;28.05.2016;06.05.2016;2;81,73;Destination KPVYJ;Cork;Co. Cork;10203;Ireland;5678 Johnstown Road
+11064;71;1;01.05.2016;29.05.2016;04.05.2016;1;30,09;Ship to 71-C;Boise;ID;10307;USA;9012 Suffolk Ln.
+11065;46;8;01.05.2016;29.05.2016;;1;12,91;Ship to 46-C;Barquisimeto;Lara;10229;Venezuela;Carrera 2345 con Ave. Bolívar #65-98 Llano Largo
+11066;89;7;01.05.2016;29.05.2016;04.05.2016;2;44,72;Ship to 89-A;Seattle;WA;10356;USA;7890 - 12th Ave. S.
+11067;17;1;04.05.2016;18.05.2016;06.05.2016;2;7,98;Destination BJCXA;Aachen;;10145;Germany;Walserweg 7890
+11068;62;8;04.05.2016;01.06.2016;;2;81,75;Ship to 62-A;Sao Paulo;SP;10276;Brazil;Alameda dos Canàrios, 8901
+11069;80;1;04.05.2016;01.06.2016;06.05.2016;2;15,67;Ship to 80-B;México D.F.;;10333;Mexico;Avda. Azteca 4567
+11070;44;2;05.05.2016;02.06.2016;;1;136;Ship to 44-A;Frankfurt a.M.;;10222;Germany;Magazinweg 4567
+11071;46;1;05.05.2016;02.06.2016;;1;0,93;Ship to 46-B;Barquisimeto;Lara;10228;Venezuela;Carrera 1234 con Ave. Bolívar #65-98 Llano Largo
+11072;20;4;05.05.2016;02.06.2016;;2;258,64;Destination RVDMF;Graz;;10157;Austria;Kirchgasse 9012
+11073;58;2;05.05.2016;02.06.2016;;2;24,95;Ship to 58-B;México D.F.;;10262;Mexico;Calle Dr. Jorge Cash 4567
+11074;73;7;06.05.2016;03.06.2016;;2;18,44;Ship to 73-A;Kobenhavn;;10310;Denmark;Vinbæltet 1234
+11075;68;8;06.05.2016;03.06.2016;;2;6,19;Ship to 68-A;Genève;;10294;Switzerland;Starenweg 6789
+11076;9;4;06.05.2016;03.06.2016;;2;38,28;Ship to 9-A;Marseille;;10367;France;8901, rue des Bouchers
+11077;65;1;06.05.2016;03.06.2016;;2;8,53;Ship to 65-A;Albuquerque;NM;10285;USA;7890 Milton Dr.
